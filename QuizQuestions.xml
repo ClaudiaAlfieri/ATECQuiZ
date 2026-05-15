@@ -1,0 +1,1090 @@
+<QuizQuestions>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Quantos jogadores tem uma equipa de futebol em campo?</Text>
+    <Options>
+      <Option>9</Option>
+      <Option>10</Option>
+      <Option>11</Option>
+      <Option>12</Option>
+    </Options>
+    <CorrectAnswer>11</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Qual é o desporto conhecido como "o rei dos desportos"?</Text>
+    <Options>
+      <Option>Basquetebol</Option>
+      <Option>Futebol</Option>
+      <Option>Ténis</Option>
+      <Option>Natação</Option>
+    </Options>
+    <CorrectAnswer>Futebol</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Em que país nasceu o Taekwondo?</Text>
+    <Options>
+      <Option>Japão</Option>
+      <Option>China</Option>
+      <Option>Coreia do Sul</Option>
+      <Option>Tailândia</Option>
+    </Options>
+    <CorrectAnswer>Coreia do Sul</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do atleta mais rápido do mundo?</Text>
+    <Options>
+      <Option>Michael Jordan</Option>
+      <Option>Usain Bolt</Option>
+      <Option>Cristiano Ronaldo</Option>
+      <Option>Lewis Hamilton</Option>
+    </Options>
+    <CorrectAnswer>Usain Bolt</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Quantas medalhas de ouro olímpicas tem Michael Phelps?</Text>
+    <Options>
+      <Option>18</Option>
+      <Option>23</Option>
+      <Option>28</Option>
+      <Option>30</Option>
+    </Options>
+    <CorrectAnswer>23</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Qual o país de origem do judo?</Text>
+    <Options>
+      <Option>China</Option>
+      <Option>Japão</Option>
+      <Option>Coreia</Option>
+      <Option>Índia</Option>
+    </Options>
+    <CorrectAnswer>Japão</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do estádio do Sport Lisboa e Benfica?</Text>
+    <Options>
+      <Option>Estádio do Dragão</Option>
+      <Option>Estádio José Alvalade</Option>
+      <Option>Estádio da Luz</Option>
+      <Option>Estádio Nacional</Option>
+    </Options>
+    <CorrectAnswer>Estádio da Luz</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Em que desporto se usa um "shuttlecock"?</Text>
+    <Options>
+      <Option>Ténis</Option>
+      <Option>Badminton</Option>
+      <Option>Voleibol</Option>
+      <Option>Squash</Option>
+    </Options>
+    <CorrectAnswer>Badminton</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Qual a cor da camisola do líder no Tour de France?</Text>
+    <Options>
+      <Option>Vermelha</Option>
+      <Option>Azul</Option>
+      <Option>Amarela</Option>
+      <Option>Verde</Option>
+    </Options>
+    <CorrectAnswer>Amarela</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Quantos pontos vale um golo num jogo de basquetebol?</Text>
+    <Options>
+      <Option>1 ou 2</Option>
+      <Option>2 ou 3</Option>
+      <Option>3 ou 4</Option>
+      <Option>1, 2 ou 3</Option>
+    </Options>
+    <CorrectAnswer>1, 2 ou 3</CorrectAnswer>
+  </Question>
+
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o atleta que ganhou mais medalhas olímpicas na história?</Text>
+    <Options>
+      <Option>Larisa Latynina</Option>
+      <Option>Paavo Nurmi</Option>
+      <Option>Michael Phelps</Option>
+      <Option>Carl Lewis</Option>
+    </Options>
+    <CorrectAnswer>Michael Phelps</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o único país africano que participou em todos os Mundiais de futebol?</Text>
+    <Options>
+      <Option>Nigéria</Option>
+      <Option>Camarões</Option>
+      <Option>Marrocos</Option>
+      <Option>Egito</Option>
+    </Options>
+    <CorrectAnswer>Camarões</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do jogador de basquetebol conhecido como "The Black Mamba"?</Text>
+    <Options>
+      <Option>LeBron James</Option>
+      <Option>Michael Jordan</Option>
+      <Option>Kobe Bryant</Option>
+      <Option>Shaquille O'Neal</Option>
+    </Options>
+    <CorrectAnswer>Kobe Bryant</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Em que ano foi disputada a primeira Taça dos Clubes Campeões Europeus (atual Liga dos Campeões)?</Text>
+    <Options>
+      <Option>1950</Option>
+      <Option>1955</Option>
+      <Option>1960</Option>
+      <Option>1965</Option>
+    </Options>
+    <CorrectAnswer>1955</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o desporto que se joga no All England Club?</Text>
+    <Options>
+      <Option>Futebol</Option>
+      <Option>Críquete</Option>
+      <Option>Ténis</Option>
+      <Option>Râguebi</Option>
+    </Options>
+    <CorrectAnswer>Ténis</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o país que mais vezes ganhou a Taça Davis em ténis?</Text>
+    <Options>
+      <Option>EUA</Option>
+      <Option>Austrália</Option>
+      <Option>Espanha</Option>
+      <Option>França</Option>
+    </Options>
+    <CorrectAnswer>EUA</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do famoso ginasta romeno que obteve a primeira nota 10 perfeita nos Jogos Olímpicos?</Text>
+    <Options>
+      <Option>Olga Korbut</Option>
+      <Option>Nadia Comăneci</Option>
+      <Option>Simone Biles</Option>
+      <Option>Larisa Latynina</Option>
+    </Options>
+    <CorrectAnswer>Nadia Comăneci</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do troféu da Copa do Mundo de Futebol?</Text>
+    <Options>
+      <Option>Taça Jules Rimet</Option>
+      <Option>Taça FIFA World Cup</Option>
+      <Option>Taça do Mundo</Option>
+      <Option>Taça de Ouro</Option>
+    </Options>
+    <CorrectAnswer>Taça FIFA World Cup</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Em que cidade se realizam os Jogos Olímpicos de Verão de 2024?</Text>
+    <Options>
+      <Option>Tóquio</Option>
+      <Option>Los Angeles</Option>
+      <Option>Paris</Option>
+      <Option>Roma</Option>
+    </Options>
+    <CorrectAnswer>Paris</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do famoso pugilista conhecido como "The Greatest"?</Text>
+    <Options>
+      <Option>Mike Tyson</Option>
+      <Option>George Foreman</Option>
+      <Option>Muhammad Ali</Option>
+      <Option>Joe Frazier</Option>
+    </Options>
+    <CorrectAnswer>Muhammad Ali</CorrectAnswer>
+  </Question>
+
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Qual o único país que participou em todas as edições dos Jogos Olímpicos da era moderna?</Text>
+    <Options>
+      <Option>Grécia</Option>
+      <Option>Reino Unido</Option>
+      <Option>França</Option>
+      <Option>Austrália</Option>
+    </Options>
+    <CorrectAnswer>Grécia</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Quem foi o primeiro jogador a ganhar a Bola de Ouro por 5 vezes?</Text>
+    <Options>
+      <Option>Lionel Messi</Option>
+      <Option>Cristiano Ronaldo</Option>
+      <Option>Michel Platini</Option>
+      <Option>Johan Cruyff</Option>
+    </Options>
+    <CorrectAnswer>Lionel Messi</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do circuito de Fórmula 1 mais longo do calendário atual?</Text>
+    <Options>
+      <Option>Spa-Francorchamps</Option>
+      <Option>Monza</Option>
+      <Option>Silverstone</Option>
+      <Option>Suzuka</Option>
+    </Options>
+    <CorrectAnswer>Spa-Francorchamps</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Qual o único tenista a ter completado o Grand Slam de carreira em três superfícies diferentes (relva, terra batida, piso duro)?</Text>
+    <Options>
+      <Option>Roger Federer</Option>
+      <Option>Rafael Nadal</Option>
+      <Option>Novak Djokovic</Option>
+      <Option>Rod Laver</Option>
+    </Options>
+    <CorrectAnswer>Novak Djokovic</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do jogador de futebol que marcou o "Golo do Século" contra a Inglaterra no Mundial de 1986?</Text>
+    <Options>
+      <Option>Pelé</Option>
+      <Option>Diego Maradona</Option>
+      <Option>Ronaldo Nazário</Option>
+      <Option>Zinedine Zidane</Option>
+    </Options>
+    <CorrectAnswer>Diego Maradona</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Em que ano os Jogos Olímpicos de Berlim foram marcados pela performance de Jesse Owens?</Text>
+    <Options>
+      <Option>1932</Option>
+      <Option>1936</Option>
+      <Option>1940</Option>
+      <Option>1944</Option>
+    </Options>
+    <CorrectAnswer>1936</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome da equipa de basquetebol que detém o recorde de mais títulos da NBA?</Text>
+    <Options>
+      <Option>Chicago Bulls</Option>
+      <Option>Los Angeles Lakers</Option>
+      <Option>Boston Celtics</Option>
+      <Option>Golden State Warriors</Option>
+    </Options>
+    <CorrectAnswer>Boston Celtics</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Qual o único desporto em que o Brasil ganhou todas as medalhas de ouro em todas as edições dos Jogos Olímpicos?</Text>
+    <Options>
+      <Option>Futebol</Option>
+      <Option>Voleibol de Praia</Option>
+      <Option>Natação</Option>
+      <Option>Judo</Option>
+    </Options>
+    <CorrectAnswer>Voleibol de Praia</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do fundador dos Jogos Olímpicos modernos?</Text>
+    <Options>
+      <Option>Pierre de Coubertin</Option>
+      <Option>Baron de Coubertin</Option>
+      <Option>Demetrius Vikelas</Option>
+      <Option>Spyros Louis</Option>
+    </Options>
+    <CorrectAnswer>Pierre de Coubertin</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do maior evento de golfe por equipas entre a Europa e os Estados Unidos?</Text>
+    <Options>
+      <Option>The Open Championship</Option>
+      <Option>Ryder Cup</Option>
+      <Option>Masters Tournament</Option>
+      <Option>PGA Championship</Option>
+    </Options>
+    <CorrectAnswer>Ryder Cup</CorrectAnswer>
+  </Question>
+
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Quem foi o primeiro presidente dos Estados Unidos?</Text>
+    <Options>
+      <Option>Abraham Lincoln</Option>
+      <Option>George Washington</Option>
+      <Option>Thomas Jefferson</Option>
+      <Option>John Adams</Option>
+    </Options>
+    <CorrectAnswer>George Washington</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Em que ano começou a Primeira Guerra Mundial?</Text>
+    <Options>
+      <Option>1910</Option>
+      <Option>1914</Option>
+      <Option>1918</Option>
+      <Option>1920</Option>
+    </Options>
+    <CorrectAnswer>1914</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Quem pintou a Mona Lisa?</Text>
+    <Options>
+      <Option>Vincent van Gogh</Option>
+      <Option>Pablo Picasso</Option>
+      <Option>Leonardo da Vinci</Option>
+      <Option>Claude Monet</Option>
+    </Options>
+    <CorrectAnswer>Leonardo da Vinci</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Qual civilização construiu as pirâmides de Gizé?</Text>
+    <Options>
+      <Option>Romanos</Option>
+      <Option>Gregos</Option>
+      <Option>Egípcios</Option>
+      <Option>Maias</Option>
+    </Options>
+    <CorrectAnswer>Egípcios</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Quem foi o líder da União Soviética durante a Segunda Guerra Mundial?</Text>
+    <Options>
+      <Option>Lenin</Option>
+      <Option>Estaline</Option>
+      <Option>Trotsky</Option>
+      <Option>Khrushchev</Option>
+    </Options>
+    <CorrectAnswer>Estaline</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Em que ano a Revolução Francesa começou?</Text>
+    <Options>
+      <Option>1776</Option>
+      <Option>1789</Option>
+      <Option>1804</Option>
+      <Option>1815</Option>
+    </Options>
+    <CorrectAnswer>1789</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do explorador que "descobriu" a América em 1492?</Text>
+    <Options>
+      <Option>Vasco da Gama</Option>
+      <Option>Fernão de Magalhães</Option>
+      <Option>Cristóvão Colombo</Option>
+      <Option>Marco Polo</Option>
+    </Options>
+    <CorrectAnswer>Cristóvão Colombo</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome da famosa muralha construída na China?</Text>
+    <Options>
+      <Option>Muralha de Adriano</Option>
+      <Option>Muralha da China</Option>
+      <Option>Grande Muralha</Option>
+      <Option>Muralha de Pequim</Option>
+    </Options>
+    <CorrectAnswer>Grande Muralha</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Quem foi o imperador romano que tornou o cristianismo a religião oficial do império?</Text>
+    <Options>
+      <Option>Júlio César</Option>
+      <Option>Augusto</Option>
+      <Option>Constantino</Option>
+      <Option>Nero</Option>
+    </Options>
+    <CorrectAnswer>Constantino</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>1</Level>
+    <Text>Qual o evento que marcou o fim da Idade Média?</Text>
+    <Options>
+      <Option>Queda do Império Romano</Option>
+      <Option>Descoberta da América</Option>
+      <Option>Revolução Francesa</Option>
+      <Option>Reforma Protestante</Option>
+    </Options>
+    <CorrectAnswer>Descoberta da América</CorrectAnswer>
+  </Question>
+
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome da batalha naval que marcou a derrota da Invencível Armada espanhola?</Text>
+    <Options>
+      <Option>Batalha de Trafalgar</Option>
+      <Option>Batalha de Lepanto</Option>
+      <Option>Batalha da Armada</Option>
+      <Option>Batalha de Gravelines</Option>
+    </Options>
+    <CorrectAnswer>Batalha de Gravelines</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Quem foi o líder do movimento pelos direitos civis nos Estados Unidos?</Text>
+    <Options>
+      <Option>Malcolm X</Option>
+      <Option>Rosa Parks</Option>
+      <Option>Martin Luther King Jr.</Option>
+      <Option>Nelson Mandela</Option>
+    </Options>
+    <CorrectAnswer>Martin Luther King Jr.</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do tratado que pôs fim à Primeira Guerra Mundial?</Text>
+    <Options>
+      <Option>Tratado de Paris</Option>
+      <Option>Tratado de Versalhes</Option>
+      <Option>Tratado de Tordesilhas</Option>
+      <Option>Tratado de Viena</Option>
+    </Options>
+    <CorrectAnswer>Tratado de Versalhes</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Em que ano caiu o Muro de Berlim?</Text>
+    <Options>
+      <Option>1985</Option>
+      <Option>1989</Option>
+      <Option>1991</Option>
+      <Option>1995</Option>
+    </Options>
+    <CorrectAnswer>1989</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome da dinastia que unificou a China pela primeira vez?</Text>
+    <Options>
+      <Option>Dinastia Han</Option>
+      <Option>Dinastia Tang</Option>
+      <Option>Dinastia Qin</Option>
+      <Option>Dinastia Ming</Option>
+    </Options>
+    <CorrectAnswer>Dinastia Qin</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Quem foi a rainha egípcia famosa pelo seu relacionamento com Júlio César e Marco António?</Text>
+    <Options>
+      <Option>Nefertiti</Option>
+      <Option>Hatshepsut</Option>
+      <Option>Cleópatra</Option>
+      <Option>Ankhesenamun</Option>
+    </Options>
+    <CorrectAnswer>Cleópatra</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Qual o evento que levou os Estados Unidos a entrar na Segunda Guerra Mundial?</Text>
+    <Options>
+      <Option>Invasão da Polónia</Option>
+      <Option>Ataque a Pearl Harbor</Option>
+      <Option>Batalha de Stalingrado</Option>
+      <Option>Batalha da Grã-Bretanha</Option>
+    </Options>
+    <CorrectAnswer>Ataque a Pearl Harbor</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Quem foi o filósofo grego, aluno de Platão e professor de Alexandre, o Grande?</Text>
+    <Options>
+      <Option>Sócrates</Option>
+      <Option>Aristóteles</Option>
+      <Option>Pitágoras</Option>
+      <Option>Heródoto</Option>
+    </Options>
+    <CorrectAnswer>Aristóteles</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome da cidade romana destruída pela erupção do Monte Vesúvio em 79 d.C.?</Text>
+    <Options>
+      <Option>Roma</Option>
+      <Option>Herculano</Option>
+      <Option>Pompeia</Option>
+      <Option>Ostia</Option>
+    </Options>
+    <CorrectAnswer>Pompeia</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>2</Level>
+    <Text>Quem foi o primeiro homem a pisar na Lua?</Text>
+    <Options>
+      <Option>Buzz Aldrin</Option>
+      <Option>Yuri Gagarin</Option>
+      <Option>Neil Armstrong</Option>
+      <Option>Michael Collins</Option>
+    </Options>
+    <CorrectAnswer>Neil Armstrong</CorrectAnswer>
+  </Question>
+
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome da teoria que defende que o poder dos reis vem diretamente de Deus?</Text>
+    <Options>
+      <Option>Absolutismo</Option>
+      <Option>Direito Divino dos Reis</Option>
+      <Option>Monarquia Constitucional</Option>
+      <Option>Teocracia</Option>
+    </Options>
+    <CorrectAnswer>Direito Divino dos Reis</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Quem foi o último imperador romano do Ocidente?</Text>
+    <Options>
+      <Option>Rómulo Augusto</Option>
+      <Option>Júlio Nepos</Option>
+      <Option>Teodósio I</Option>
+      <Option>Honório</Option>
+    </Options>
+    <CorrectAnswer>Rómulo Augusto</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do famoso código de leis babilónico?</Text>
+    <Options>
+      <Option>Código de Ur-Nammu</Option>
+      <Option>Código de Hamurabi</Option>
+      <Option>Leis de Drácon</Option>
+      <Option>Tábua dos Doze</Option>
+    </Options>
+    <CorrectAnswer>Código de Hamurabi</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Em que ano ocorreu a Batalha de Hastings, que levou à conquista normanda da Inglaterra?</Text>
+    <Options>
+      <Option>1066</Option>
+      <Option>1077</Option>
+      <Option>1088</Option>
+      <Option>1099</Option>
+    </Options>
+    <CorrectAnswer>1066</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome da guerra civil que ocorreu na Inglaterra no século XVII?</Text>
+    <Options>
+      <Option>Guerra das Rosas</Option>
+      <Option>Guerra dos Cem Anos</Option>
+      <Option>Guerra Civil Inglesa</Option>
+      <Option>Guerra dos Trinta Anos</Option>
+    </Options>
+    <CorrectAnswer>Guerra Civil Inglesa</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Quem foi o primeiro chanceler da Alemanha unificada?</Text>
+    <Options>
+      <Option>Otto von Bismarck</Option>
+      <Option>Guilherme I</Option>
+      <Option>Helmuth von Moltke</Option>
+      <Option>Friedrich Ebert</Option>
+    </Options>
+    <CorrectAnswer>Otto von Bismarck</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome da doutrina política e económica que defende a intervenção estatal para proteger a economia nacional?</Text>
+    <Options>
+      <Option>Liberalismo</Option>
+      <Option>Mercantilismo</Option>
+      <Option>Capitalismo</Option>
+      <Option>Socialismo</Option>
+    </Options>
+    <CorrectAnswer>Mercantilismo</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Quem foi o último czar da Rússia?</Text>
+    <Options>
+      <Option>Pedro, o Grande</Option>
+      <Option>Catarina, a Grande</Option>
+      <Option>Nicolau II</Option>
+      <Option>Alexandre III</Option>
+    </Options>
+    <CorrectAnswer>Nicolau II</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do movimento cultural e intelectual que marcou a transição da Idade Média para a Idade Moderna na Europa?</Text>
+    <Options>
+      <Option>Iluminismo</Option>
+      <Option>Reforma Protestante</Option>
+      <Option>Renascimento</Option>
+      <Option>Barroco</Option>
+    </Options>
+    <CorrectAnswer>Renascimento</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>História</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome da organização internacional criada após a Segunda Guerra Mundial para promover a paz e a segurança?</Text>
+    <Options>
+      <Option>Liga das Nações</Option>
+      <Option>OTAN</Option>
+      <Option>ONU</Option>
+      <Option>UNESCO</Option>
+    </Options>
+    <CorrectAnswer>ONU</CorrectAnswer>
+  </Question>
+
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Quem interpretou o papel de Harry Potter nos filmes?</Text>
+    <Options>
+      <Option>Rupert Grint</Option>
+      <Option>Daniel Radcliffe</Option>
+      <Option>Tom Felton</Option>
+      <Option>Emma Watson</Option>
+    </Options>
+    <CorrectAnswer>Daniel Radcliffe</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do diretor do filme "Titanic"?</Text>
+    <Options>
+      <Option>Steven Spielberg</Option>
+      <Option>James Cameron</Option>
+      <Option>Christopher Nolan</Option>
+      <Option>Quentin Tarantino</Option>
+    </Options>
+    <CorrectAnswer>James Cameron</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do famoso ator que interpretou o Coringa em "O Cavaleiro das Trevas"?</Text>
+    <Options>
+      <Option>Jack Nicholson</Option>
+      <Option>Jared Leto</Option>
+      <Option>Heath Ledger</Option>
+      <Option>Joaquin Phoenix</Option>
+    </Options>
+    <CorrectAnswer>Heath Ledger</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome da princesa da Disney que vive no fundo do mar?</Text>
+    <Options>
+      <Option>Bela</Option>
+      <Option>Cinderela</Option>
+      <Option>Ariel</Option>
+      <Option>Jasmine</Option>
+    </Options>
+    <CorrectAnswer>Ariel</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do planeta natal de Superman?</Text>
+    <Options>
+      <Option>Terra</Option>
+      <Option>Marte</Option>
+      <Option>Krypton</Option>
+      <Option>Saturno</Option>
+    </Options>
+    <CorrectAnswer>Krypton</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do carro que se transforma em robô na franquia "Transformers"?</Text>
+    <Options>
+      <Option>Optimus Prime</Option>
+      <Option>Bumblebee</Option>
+      <Option>Megatron</Option>
+      <Option>Starscream</Option>
+    </Options>
+    <CorrectAnswer>Bumblebee</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do brinquedo cowboy na saga "Toy Story"?</Text>
+    <Options>
+      <Option>Buzz Lightyear</Option>
+      <Option>Woody</Option>
+      <Option>Sr. Cabeça de Batata</Option>
+      <Option>Jessie</Option>
+    </Options>
+    <CorrectAnswer>Woody</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do famoso vilão com uma luva de joias do infinito?</Text>
+    <Options>
+      <Option>Ultron</Option>
+      <Option>Loki</Option>
+      <Option>Thanos</Option>
+      <Option>Magneto</Option>
+    </Options>
+    <CorrectAnswer>Thanos</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do filme onde um peixe-palhaço procura o seu filho?</Text>
+    <Options>
+      <Option>A Pequena Sereia</Option>
+      <Option>Procurando Nemo</Option>
+      <Option>Luca</Option>
+      <Option>Moana</Option>
+    </Options>
+    <CorrectAnswer>Procurando Nemo</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>1</Level>
+    <Text>Quem canta a música "Let It Go" no filme "Frozen"?</Text>
+    <Options>
+      <Option>Anna</Option>
+      <Option>Elsa</Option>
+      <Option>Olaf</Option>
+      <Option>Kristoff</Option>
+    </Options>
+    <CorrectAnswer>Elsa</CorrectAnswer>
+  </Question>
+
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do ator que interpretou o papel de Tony Stark / Homem de Ferro?</Text>
+    <Options>
+      <Option>Chris Evans</Option>
+      <Option>Robert Downey Jr.</Option>
+      <Option>Mark Ruffalo</Option>
+      <Option>Chris Hemsworth</Option>
+    </Options>
+    <CorrectAnswer>Robert Downey Jr.</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do realizador do filme "Pulp Fiction"?</Text>
+    <Options>
+      <Option>Martin Scorsese</Option>
+      <Option>Quentin Tarantino</Option>
+      <Option>Francis Ford Coppola</Option>
+      <Option>Stanley Kubrick</Option>
+    </Options>
+    <CorrectAnswer>Quentin Tarantino</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o filme que ganhou o Óscar de Melhor Filme em 2020?</Text>
+    <Options>
+      <Option>1917</Option>
+      <Option>Parasita</Option>
+      <Option>Era Uma Vez em Hollywood</Option>
+      <Option>Joker</Option>
+    </Options>
+    <CorrectAnswer>Parasita</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do protagonista de "Matrix"?</Text>
+    <Options>
+      <Option>Morpheus</Option>
+      <Option>Trinity</Option>
+      <Option>Neo</Option>
+      <Option>Agente Smith</Option>
+    </Options>
+    <CorrectAnswer>Neo</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do famoso diretor de filmes de terror como "Psicose" e "Os Pássaros"?</Text>
+    <Options>
+      <Option>Wes Craven</Option>
+      <Option>Alfred Hitchcock</Option>
+      <Option>John Carpenter</Option>
+      <Option>George A. Romero</Option>
+    </Options>
+    <CorrectAnswer>Alfred Hitchcock</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o filme de animação da Pixar onde um robô limpa a Terra abandonada?</Text>
+    <Options>
+      <Option>Up - Altamente!</Option>
+      <Option>Wall-E</Option>
+      <Option>Toy Story</Option>
+      <Option>Divertida-Mente</Option>
+    </Options>
+    <CorrectAnswer>Wall-E</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome da atriz que interpretou Hermione Granger na saga Harry Potter?</Text>
+    <Options>
+      <Option>Bonnie Wright</Option>
+      <Option>Evanna Lynch</Option>
+      <Option>Emma Watson</Option>
+      <Option>Helena Bonham Carter</Option>
+    </Options>
+    <CorrectAnswer>Emma Watson</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do filme de ficção científica de 1982 que apresenta replicantes?</Text>
+    <Options>
+      <Option>Blade Runner</Option>
+      <Option>Alien</Option>
+      <Option>2001: Odisseia no Espaço</Option>
+      <Option>Star Wars</Option>
+    </Options>
+    <CorrectAnswer>Blade Runner</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do ator que interpretou James Bond em "007 - Casino Royale"?</Text>
+    <Options>
+      <Option>Pierce Brosnan</Option>
+      <Option>Sean Connery</Option>
+      <Option>Daniel Craig</Option>
+      <Option>Roger Moore</Option>
+    </Options>
+    <CorrectAnswer>Daniel Craig</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>2</Level>
+    <Text>Qual o nome do filme de 1994 sobre um homem com uma vida incomum, interpretado por Tom Hanks?</Text>
+    <Options>
+      <Option>O Resgate do Soldado Ryan</Option>
+      <Option>Forrest Gump</Option>
+      <Option>O Código Da Vinci</Option>
+      <Option>Náufrago</Option>
+    </Options>
+    <CorrectAnswer>Forrest Gump</CorrectAnswer>
+  </Question>
+
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do realizador que ganhou três Óscares de Melhor Realizador em quatro anos (2014, 2015, 2018)?</Text>
+    <Options>
+      <Option>Alfonso Cuarón</Option>
+      <Option>Alejandro G. Iñárritu</Option>
+      <Option>Guillermo del Toro</Option>
+      <Option>Damien Chazelle</Option>
+    </Options>
+    <CorrectAnswer>Alejandro G. Iñárritu</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o filme que é considerado o primeiro longa-metragem de animação da história do cinema?</Text>
+    <Options>
+      <Option>Branca de Neve e os Sete Anões</Option>
+      <Option>Pinóquio</Option>
+      <Option>Fantasia</Option>
+      <Option>Dumbo</Option>
+    </Options>
+    <CorrectAnswer>Branca de Neve e os Sete Anões</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do compositor que criou as trilhas sonoras de "Star Wars", "Indiana Jones" e "Tubarão"?</Text>
+    <Options>
+      <Option>Hans Zimmer</Option>
+      <Option>Ennio Morricone</Option>
+      <Option>John Williams</Option>
+      <Option>Danny Elfman</Option>
+    </Options>
+    <CorrectAnswer>John Williams</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do filme de 1941, dirigido por Orson Welles, frequentemente citado como o "melhor filme de todos os tempos"?</Text>
+    <Options>
+      <Option>Casablanca</Option>
+      <Option>O Poderoso Chefão</Option>
+      <Option>Cidadão Kane</Option>
+      <Option>Vertigo</Option>
+    </Options>
+    <CorrectAnswer>Cidadão Kane</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do movimento cinematográfico francês que surgiu na década de 1950, com diretores como Jean-Luc Godard e François Truffaut?</Text>
+    <Options>
+      <Option>Neorrealismo Italiano</Option>
+      <Option>Nouvelle Vague</Option>
+      <Option>Expressionismo Alemão</Option>
+      <Option>Dogme 95</Option>
+    </Options>
+    <CorrectAnswer>Nouvelle Vague</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Quem foi a primeira mulher a ganhar o Óscar de Melhor Realizador?</Text>
+    <Options>
+      <Option>Kathryn Bigelow</Option>
+      <Option>Sofia Coppola</Option>
+      <Option>Chloé Zhao</Option>
+      <Option>Jane Campion</Option>
+    </Options>
+    <CorrectAnswer>Kathryn Bigelow</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do filme de 2019 que se passa em Seul e explora temas de desigualdade social, ganhando a Palma de Ouro e o Óscar de Melhor Filme?</Text>
+    <Options>
+      <Option>Burning</Option>
+      <Option>Okja</Option>
+      <Option>Parasita</Option>
+      <Option>Train to Busan</Option>
+    </Options>
+    <CorrectAnswer>Parasita</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do ator que interpretou Vito Corleone em "O Poderoso Chefão" e ganhou um Óscar por isso?</Text>
+    <Options>
+      <Option>Al Pacino</Option>
+      <Option>Robert De Niro</Option>
+      <Option>Marlon Brando</Option>
+      <Option>James Caan</Option>
+    </Options>
+    <CorrectAnswer>Marlon Brando</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do filme de 1999 que popularizou o conceito de "bullet time"?</Text>
+    <Options>
+      <Option>O Senhor dos Anéis</Option>
+      <Option>Matrix</Option>
+      <Option>Clube da Luta</Option>
+      <Option>A Origem</Option>
+    </Options>
+    <CorrectAnswer>Matrix</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Cinema</Theme>
+    <Level>3</Level>
+    <Text>Qual o nome do famoso musical de 1965 que se passa na Áustria e conta a história da família Von Trapp?</Text>
+    <Options>
+      <Option>My Fair Lady</Option>
+      <Option>West Side Story</Option>
+      <Option>Música no Coração</Option>
+      <Option>Mary Poppins</Option>
+    </Options>
+    <CorrectAnswer>Música no Coração</CorrectAnswer>
+  </Question>
+</QuizQuestions>

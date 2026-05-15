@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace ATECQuiZ
 {
-    public partial class Form1 : Form
+    public partial class ATECQuiZ : Form
     {
-        public Form1()
+        public ATECQuiZ()
         {
             InitializeComponent();
         }
+
+       
     }
 }
