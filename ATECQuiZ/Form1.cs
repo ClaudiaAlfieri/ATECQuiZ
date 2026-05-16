@@ -2,6 +2,7 @@
 using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.TextBox;
 
 namespace ATECQuizApp
 {
@@ -29,6 +30,15 @@ namespace ATECQuizApp
         private void btnSair_Click_1(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        Color[] cores = { Color.White, Color.Yellow, Color.Cyan };
+        int indiceCor = 0;
+
+        private void timerAnimacao_Tick(object sender, EventArgs e)
+        {
+            lblTitulo.ForeColor = cores[indiceCor];
+            indiceCor = (indiceCor + 1) % cores.Length;
         }
     }
 }

@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.btnCinema = new System.Windows.Forms.Button();
             this.btnHistoria = new System.Windows.Forms.Button();
@@ -36,6 +37,8 @@
             this.btnNovoJogo = new System.Windows.Forms.Button();
             this.btnHighscores = new System.Windows.Forms.Button();
             this.btnSair = new System.Windows.Forms.Button();
+            this.lblTitulo = new System.Windows.Forms.Label();
+            this.timerAnimacao = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // btnCinema
@@ -108,7 +111,7 @@
             this.btnNovoJogo.FlatAppearance.BorderSize = 0;
             this.btnNovoJogo.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnNovoJogo.ForeColor = System.Drawing.Color.Transparent;
-            this.btnNovoJogo.Location = new System.Drawing.Point(588, 369);
+            this.btnNovoJogo.Location = new System.Drawing.Point(553, 374);
             this.btnNovoJogo.Name = "btnNovoJogo";
             this.btnNovoJogo.Size = new System.Drawing.Size(158, 64);
             this.btnNovoJogo.TabIndex = 7;
@@ -123,7 +126,7 @@
             this.btnHighscores.FlatAppearance.BorderSize = 0;
             this.btnHighscores.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnHighscores.ForeColor = System.Drawing.Color.Transparent;
-            this.btnHighscores.Location = new System.Drawing.Point(588, 451);
+            this.btnHighscores.Location = new System.Drawing.Point(553, 456);
             this.btnHighscores.Name = "btnHighscores";
             this.btnHighscores.Size = new System.Drawing.Size(158, 64);
             this.btnHighscores.TabIndex = 8;
@@ -138,12 +141,30 @@
             this.btnSair.FlatAppearance.BorderSize = 0;
             this.btnSair.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSair.ForeColor = System.Drawing.Color.Transparent;
-            this.btnSair.Location = new System.Drawing.Point(588, 538);
+            this.btnSair.Location = new System.Drawing.Point(553, 543);
             this.btnSair.Margin = new System.Windows.Forms.Padding(0);
             this.btnSair.Name = "btnSair";
             this.btnSair.Size = new System.Drawing.Size(158, 58);
             this.btnSair.TabIndex = 9;
             this.btnSair.UseVisualStyleBackColor = false;
+            // 
+            // lblTitulo
+            // 
+            this.lblTitulo.AutoSize = true;
+            this.lblTitulo.BackColor = System.Drawing.Color.Transparent;
+            this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTitulo.ForeColor = System.Drawing.Color.White;
+            this.lblTitulo.Location = new System.Drawing.Point(442, 66);
+            this.lblTitulo.Name = "lblTitulo";
+            this.lblTitulo.Size = new System.Drawing.Size(396, 37);
+            this.lblTitulo.TabIndex = 10;
+            this.lblTitulo.Text = "✨ Escolhe um Tema! ✨";
+            // 
+            // timerAnimacao
+            // 
+            this.timerAnimacao.Enabled = true;
+            this.timerAnimacao.Interval = 500;
+            this.timerAnimacao.Tick += new System.EventHandler(this.timerAnimacao_Tick);
             // 
             // Form1
             // 
@@ -152,6 +173,7 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1305, 681);
+            this.Controls.Add(this.lblTitulo);
             this.Controls.Add(this.btnSair);
             this.Controls.Add(this.btnHighscores);
             this.Controls.Add(this.btnNovoJogo);
@@ -162,6 +184,7 @@
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -173,6 +196,8 @@
         private System.Windows.Forms.Button btnNovoJogo;
         private System.Windows.Forms.Button btnHighscores;
         private System.Windows.Forms.Button btnSair;
+        private System.Windows.Forms.Label lblTitulo;
+        private System.Windows.Forms.Timer timerAnimacao;
     }
 }
 
