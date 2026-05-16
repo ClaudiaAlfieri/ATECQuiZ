@@ -11,6 +11,10 @@ namespace ATECQuizApp
         public Form1()
         {
             InitializeComponent();
+            TornarBotaoArredondado(btnCinema, 30);
+            TornarBotaoArredondado(btnDesporto, 30);
+            TornarBotaoArredondado(btnHistoria, 30);
+            TornarBotaoArredondado(btnMix, 30);
             TornarBotaoArredondado(btnNovoJogo, 30);
             TornarBotaoArredondado(btnHighscores, 30);
             TornarBotaoArredondado(btnSair, 30);
@@ -27,11 +31,6 @@ namespace ATECQuizApp
             btn.Region = new Region(path);
         }
 
-        private void btnSair_Click_1(object sender, EventArgs e)
-        {
-            Application.Exit();
-        }
-
         Color[] cores = { Color.White, Color.Yellow, Color.Cyan };
         int indiceCor = 0;
 
@@ -39,6 +38,39 @@ namespace ATECQuizApp
         {
             lblTitulo.ForeColor = cores[indiceCor];
             indiceCor = (indiceCor + 1) % cores.Length;
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void btnCinema_Click(object sender, EventArgs e)
+        {
+            FormJogo formJogo = new FormJogo("Cinema");
+            formJogo.Show();
+            this.Hide();
+        }
+
+        private void btnDesporto_Click(object sender, EventArgs e)
+        {
+            FormJogo formJogo = new FormJogo("Desporto");
+            formJogo.Show();
+            this.Hide();
+        }
+
+        private void btnHistoria_Click(object sender, EventArgs e)
+        {
+            FormJogo formJogo = new FormJogo("Historia");
+            formJogo.Show();
+            this.Hide();
+        }
+
+        private void btnMix_Click(object sender, EventArgs e)
+        {
+            FormJogo formJogo = new FormJogo("Mix");
+            formJogo.Show();
+            this.Hide();
         }
     }
 }

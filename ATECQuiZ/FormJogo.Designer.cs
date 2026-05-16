@@ -1,4 +1,4 @@
-﻿namespace ATECQuiZ
+﻿namespace ATECQuizApp
 {
     partial class FormJogo
     {
@@ -134,6 +134,7 @@
             this.Controls.Add(this.lblTema);
             this.Name = "FormJogo";
             this.Text = "Form2";
+            this.Load += new System.EventHandler(this.FormJogo_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
