@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ATECQuiZ
 {
-    public partial class Form2 : Form
+    public partial class FormJogo : Form
     {
-        public Form2()
+        public FormJogo()
         {
             InitializeComponent();
         }
