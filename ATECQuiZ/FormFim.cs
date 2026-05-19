@@ -34,13 +34,18 @@ namespace ATECQuizApp
         {
             lblPontuacao.Text = "Você fez " + pontuacaoFinal.ToString() + " pontos.";
             lblFeedback.Text = mensagemFinal.ToString();
-        }
 
+
+            lblFim.Left = (this.ClientSize.Width - lblFim.Width) / 2;
+            lblPontuacao.Left = (this.ClientSize.Width - lblPontuacao.Width) / 2;
+            lblFeedback.Left = (this.ClientSize.Width - lblFeedback.Width) / 2;
+            btnVoltar.Left = (this.ClientSize.Width - btnVoltar.Width) / 2;
+
+        }
+                
         private void btnVoltar_Click(object sender, EventArgs e)
         {
-            Form1 form1 = new Form1();
-            form1.Show();
-            this.Hide();
+            Application.Restart();
         }
     }
 }
