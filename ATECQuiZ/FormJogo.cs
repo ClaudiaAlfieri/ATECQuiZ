@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Drawing;
 using System.Windows.Forms;
 using System.Xml;
 
@@ -14,6 +15,7 @@ namespace ATECQuizApp
         int perguntaAtual = 0;
         int pontuacao = 0;
         int certasNesteNivel = 0;
+        Button botaoClicado;
 
         public FormJogo(string tema)
         {
@@ -89,20 +91,41 @@ namespace ATECQuizApp
             btnResposta4.Text = opcoes[3].InnerText;
         }
 
-        private void VerificarResposta(string respostaEscolhida)
+        private void VerificarResposta(Button respostaEscolhida)
         {
             string respostaCorreta = perguntasDoJogo[perguntaAtual]["CorrectAnswer"].InnerText;
-           
-            if (respostaEscolhida == respostaCorreta)
+
+            botaoClicado = respostaEscolhida;
+            if (respostaEscolhida.Text == respostaCorreta)
             {
-                MessageBox.Show("Resposta correta! 🎉", "Resultado");
+                respostaEscolhida.BackColor = Color.Green;
                 pontuacao++;
                 certasNesteNivel += 1;
             }
             else
             {
-                MessageBox.Show("Resposta errada! 😔", "Resultado");
+                respostaEscolhida.BackColor = Color.Red;               
             }
+
+            btnResposta1.Enabled = false;
+            btnResposta2.Enabled = false;
+            btnResposta3.Enabled = false;
+            btnResposta4.Enabled = false;
+
+            timerFeedback.Start();
+
+        }
+
+        private void timerFeedback_Tick(object sender, EventArgs e)
+        {
+            timerFeedback.Stop();
+
+            botaoClicado.BackColor = Color.White;
+
+            btnResposta1.Enabled = true;
+            btnResposta2.Enabled = true;
+            btnResposta3.Enabled = true;
+            btnResposta4.Enabled = true;
 
             perguntaAtual++;
 
@@ -112,7 +135,7 @@ namespace ATECQuizApp
             }
             else
             {
-               if (certasNesteNivel < 4)
+                if (certasNesteNivel < 4)
                 {
                     MessageBox.Show("Jogo encerrado");
                     this.Close();
@@ -132,27 +155,27 @@ namespace ATECQuizApp
                     }
                 }
             }
-
         }
 
         private void btnResposta1_Click(object sender, EventArgs e)
         {
-            VerificarResposta(btnResposta1.Text);
+            VerificarResposta(btnResposta1);
         }
 
         private void btnResposta2_Click(object sender, EventArgs e)
         {
-            VerificarResposta(btnResposta2.Text);
+            VerificarResposta(btnResposta2);
         }
 
         private void btnResposta3_Click(object sender, EventArgs e)
         {
-            VerificarResposta(btnResposta3.Text);
+            VerificarResposta(btnResposta3);
         }
 
         private void btnResposta4_Click(object sender, EventArgs e)
         {
-            VerificarResposta(btnResposta4.Text);
+            VerificarResposta(btnResposta4);
         }
+
     }
 }

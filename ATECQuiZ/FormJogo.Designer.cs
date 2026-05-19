@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.lblTema = new System.Windows.Forms.Label();
             this.lblPerguntaNum = new System.Windows.Forms.Label();
             this.lblPontuacao = new System.Windows.Forms.Label();
@@ -37,6 +38,7 @@
             this.btnResposta3 = new System.Windows.Forms.Button();
             this.btnResposta4 = new System.Windows.Forms.Button();
             this.lblNivel = new System.Windows.Forms.Label();
+            this.timerFeedback = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // lblTema
@@ -133,6 +135,11 @@
             this.lblNivel.TabIndex = 8;
             this.lblNivel.Text = "Nível";
             // 
+            // timerFeedback
+            // 
+            this.timerFeedback.Interval = 1000;
+            this.timerFeedback.Tick += new System.EventHandler(this.timerFeedback_Tick);
+            // 
             // FormJogo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -167,5 +174,6 @@
         private System.Windows.Forms.Button btnResposta3;
         private System.Windows.Forms.Button btnResposta4;
         private System.Windows.Forms.Label lblNivel;
+        private System.Windows.Forms.Timer timerFeedback;
     }
 }

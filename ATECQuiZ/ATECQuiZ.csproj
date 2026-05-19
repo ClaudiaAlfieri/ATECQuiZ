@@ -105,6 +105,9 @@
     <Content Include="Resources\historia.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\imagem fundo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="Resources\mix.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
