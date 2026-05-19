@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ATECQuiZ;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Windows.Forms;
@@ -137,15 +138,18 @@ namespace ATECQuizApp
             {
                 if (certasNesteNivel < 4)
                 {
-                    MessageBox.Show("Jogo encerrado");
-                    this.Close();
+                    FormFim formFim = new FormFim("Não foi desta vez, tente novamente!", pontuacao);
+                    formFim.Show();
+                    this.Hide();
                 }
                 else
                 {
                     if (nivelAtual == 3)
                     {
-                        MessageBox.Show("Parabéns, venceste o jogo! 🏆");
-                        this.Close();
+                        FormFim formFim = new FormFim("Parabéns, venceste! 🏆", pontuacao);
+                        formFim.Show();
+                        this.Hide();
+
                     }
                     else
                     {
