@@ -50,7 +50,22 @@ namespace ATECQuizApp
             MostrarPergunta();
         }
 
-      
+        private void MostrarPergunta()
+        {
+            XmlNode node = perguntasDoJogo[perguntaAtual];
+
+            lblTema.Text = temaEscolhido;
+            lblPerguntaNum.Text = "Pergunta: " + (perguntaAtual + 1);
+            lblPontuacao.Text = "Pontuação: " + pontuacao;
+            lblPergunta.Text = node["Text"].InnerText;
+
+            XmlNodeList opcoes = node.SelectNodes("Options/Option");
+
+            btnResposta1.Text = opcoes[0].InnerText;
+            btnResposta2.Text = opcoes[1].InnerText;
+            btnResposta3.Text = opcoes[2].InnerText;
+            btnResposta4.Text = opcoes[3].InnerText;
+        }
 
 
     }
