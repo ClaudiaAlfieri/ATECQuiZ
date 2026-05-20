@@ -92,6 +92,10 @@
             // 
             // btnResposta2
             // 
+            this.btnResposta2.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnResposta2.FlatAppearance.BorderSize = 0;
+            this.btnResposta2.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnResposta2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResposta2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResposta2.ForeColor = System.Drawing.Color.Indigo;
             this.btnResposta2.Location = new System.Drawing.Point(388, 336);
@@ -104,6 +108,10 @@
             // 
             // btnResposta3
             // 
+            this.btnResposta3.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnResposta3.FlatAppearance.BorderSize = 0;
+            this.btnResposta3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnResposta3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResposta3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResposta3.ForeColor = System.Drawing.Color.Indigo;
             this.btnResposta3.Location = new System.Drawing.Point(675, 336);
@@ -116,6 +124,10 @@
             // 
             // btnResposta4
             // 
+            this.btnResposta4.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnResposta4.FlatAppearance.BorderSize = 0;
+            this.btnResposta4.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnResposta4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResposta4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResposta4.ForeColor = System.Drawing.Color.Indigo;
             this.btnResposta4.Location = new System.Drawing.Point(951, 336);
@@ -145,6 +157,10 @@
             // 
             // btnResposta1
             // 
+            this.btnResposta1.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.btnResposta1.FlatAppearance.BorderSize = 0;
+            this.btnResposta1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
+            this.btnResposta1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResposta1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResposta1.ForeColor = System.Drawing.Color.Indigo;
             this.btnResposta1.Location = new System.Drawing.Point(89, 336);
@@ -153,6 +169,7 @@
             this.btnResposta1.TabIndex = 9;
             this.btnResposta1.Text = "Resposta 1";
             this.btnResposta1.UseVisualStyleBackColor = true;
+            this.btnResposta1.Click += new System.EventHandler(this.btnResposta1_Click);
             // 
             // FormJogo
             // 
