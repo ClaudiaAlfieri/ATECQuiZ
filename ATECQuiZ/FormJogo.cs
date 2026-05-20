@@ -25,8 +25,8 @@ namespace ATECQuizApp
         }
 
         private void FormJogo_Load(object sender, EventArgs e)
-        {
-            doc.Load("QuizQuestions.xml");
+        {        
+            doc.Load("Resources\\QuizQuestions.xml");
             CarregarPerguntas();
         }
 
@@ -90,6 +90,26 @@ namespace ATECQuizApp
             btnResposta2.Text = opcoes[1].InnerText;
             btnResposta3.Text = opcoes[2].InnerText;
             btnResposta4.Text = opcoes[3].InnerText;
+
+            //Centralizar labels e botões no Form:
+
+            int espaco = 30;
+            int larguraTotal = lblTema.Width + espaco + lblNivel.Width + espaco + lblPerguntaNum.Width + espaco + lblPontuacao.Width;
+            int inicioX = (this.ClientSize.Width - larguraTotal) / 2;
+            lblTema.Left = inicioX;
+            lblNivel.Left = lblTema.Left + lblTema.Width + espaco;
+            lblPerguntaNum.Left = lblNivel.Left + lblNivel.Width + espaco;
+            lblPontuacao.Left = lblPerguntaNum.Left + lblPerguntaNum.Width + espaco;
+
+            lblPergunta.Left = (this.ClientSize.Width - lblPergunta.Width) / 2;
+
+            int espaco1 = 15;
+            int larguraTotal1 = btnResposta1.Width + espaco1 + btnResposta2.Width + espaco1 + btnResposta3.Width + espaco1 + btnResposta4.Width;
+            int inicioX1 = (this.ClientSize.Width - larguraTotal1) / 2;
+            btnResposta1.Left = inicioX1;
+            btnResposta2.Left = btnResposta1.Left + btnResposta1.Width + espaco1;
+            btnResposta3.Left = btnResposta2.Left + btnResposta2.Width + espaco1;
+            btnResposta4.Left = btnResposta3.Left + btnResposta3.Width + espaco1;            
         }
 
         private void VerificarResposta(Button respostaEscolhida)
@@ -181,5 +201,6 @@ namespace ATECQuizApp
             VerificarResposta(btnResposta4);
         }
 
+        
     }
 }

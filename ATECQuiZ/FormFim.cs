@@ -35,12 +35,11 @@ namespace ATECQuizApp
             lblPontuacao.Text = "Você fez " + pontuacaoFinal.ToString() + " pontos.";
             lblFeedback.Text = mensagemFinal.ToString();
 
-
+            //Centralizar labels e botões no Form:
             lblFim.Left = (this.ClientSize.Width - lblFim.Width) / 2;
             lblPontuacao.Left = (this.ClientSize.Width - lblPontuacao.Width) / 2;
             lblFeedback.Left = (this.ClientSize.Width - lblFeedback.Width) / 2;
             btnVoltar.Left = (this.ClientSize.Width - btnVoltar.Width) / 2;
-
         }
                 
         private void btnVoltar_Click(object sender, EventArgs e)

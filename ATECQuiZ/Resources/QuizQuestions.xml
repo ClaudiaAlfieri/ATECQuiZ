@@ -30,8 +30,8 @@
     <Options>
       <Option>Japão</Option>
       <Option>China</Option>
-      <Option>Coreia do Sul</Option>
       <Option>Tailândia</Option>
+      <Option>Coreia do Sul</Option>      
     </Options>
     <CorrectAnswer>Coreia do Sul</CorrectAnswer>
   </Question>
@@ -40,8 +40,8 @@
     <Level>1</Level>
     <Text>Qual o nome do atleta mais rápido do mundo?</Text>
     <Options>
-      <Option>Michael Jordan</Option>
       <Option>Usain Bolt</Option>
+      <Option>Michael Jordan</Option>      
       <Option>Cristiano Ronaldo</Option>
       <Option>Lewis Hamilton</Option>
     </Options>
@@ -64,9 +64,9 @@
     <Level>1</Level>
     <Text>Qual o país de origem do judo?</Text>
     <Options>
-      <Option>China</Option>
-      <Option>Japão</Option>
+      <Option>China</Option>      
       <Option>Coreia</Option>
+      <Option>Japão</Option>
       <Option>Índia</Option>
     </Options>
     <CorrectAnswer>Japão</CorrectAnswer>
@@ -77,8 +77,8 @@
     <Text>Qual o nome do estádio do Sport Lisboa e Benfica?</Text>
     <Options>
       <Option>Estádio do Dragão</Option>
-      <Option>Estádio José Alvalade</Option>
       <Option>Estádio da Luz</Option>
+      <Option>Estádio José Alvalade</Option>     
       <Option>Estádio Nacional</Option>
     </Options>
     <CorrectAnswer>Estádio da Luz</CorrectAnswer>
@@ -88,10 +88,10 @@
     <Level>1</Level>
     <Text>Em que desporto se usa um "shuttlecock"?</Text>
     <Options>
-      <Option>Ténis</Option>
-      <Option>Badminton</Option>
+      <Option>Ténis</Option>      
       <Option>Voleibol</Option>
       <Option>Squash</Option>
+      <Option>Badminton</Option>
     </Options>
     <CorrectAnswer>Badminton</CorrectAnswer>
   </Question>
@@ -112,10 +112,10 @@
     <Level>1</Level>
     <Text>Quantos pontos vale um golo num jogo de basquetebol?</Text>
     <Options>
+      <Option>1, 2 ou 3</Option>
       <Option>1 ou 2</Option>
       <Option>2 ou 3</Option>
-      <Option>3 ou 4</Option>
-      <Option>1, 2 ou 3</Option>
+      <Option>3 ou 4</Option>     
     </Options>
     <CorrectAnswer>1, 2 ou 3</CorrectAnswer>
   </Question>
@@ -125,9 +125,9 @@
     <Level>2</Level>
     <Text>Qual o atleta que ganhou mais medalhas olímpicas na história?</Text>
     <Options>
-      <Option>Larisa Latynina</Option>
-      <Option>Paavo Nurmi</Option>
       <Option>Michael Phelps</Option>
+      <Option>Larisa Latynina</Option>
+      <Option>Paavo Nurmi</Option>    
       <Option>Carl Lewis</Option>
     </Options>
     <CorrectAnswer>Michael Phelps</CorrectAnswer>
@@ -161,10 +161,10 @@
     <Level>2</Level>
     <Text>Em que ano foi disputada a primeira Taça dos Clubes Campeões Europeus (atual Liga dos Campeões)?</Text>
     <Options>
-      <Option>1950</Option>
-      <Option>1955</Option>
+      <Option>1950</Option>    
       <Option>1960</Option>
       <Option>1965</Option>
+      <Option>1955</Option>
     </Options>
     <CorrectAnswer>1955</CorrectAnswer>
   </Question>
@@ -209,9 +209,9 @@
     <Level>2</Level>
     <Text>Qual o nome do troféu da Copa do Mundo de Futebol?</Text>
     <Options>
-      <Option>Taça Jules Rimet</Option>
-      <Option>Taça FIFA World Cup</Option>
+      <Option>Taça Jules Rimet</Option>      
       <Option>Taça do Mundo</Option>
+      <Option>Taça FIFA World Cup</Option>
       <Option>Taça de Ouro</Option>
     </Options>
     <CorrectAnswer>Taça FIFA World Cup</CorrectAnswer>
@@ -221,9 +221,9 @@
     <Level>2</Level>
     <Text>Em que cidade se realizam os Jogos Olímpicos de Verão de 2024?</Text>
     <Options>
-      <Option>Tóquio</Option>
-      <Option>Los Angeles</Option>
       <Option>Paris</Option>
+      <Option>Tóquio</Option>
+      <Option>Los Angeles</Option>     
       <Option>Roma</Option>
     </Options>
     <CorrectAnswer>Paris</CorrectAnswer>
@@ -234,9 +234,9 @@
     <Text>Qual o nome do famoso pugilista conhecido como "The Greatest"?</Text>
     <Options>
       <Option>Mike Tyson</Option>
-      <Option>George Foreman</Option>
-      <Option>Muhammad Ali</Option>
+      <Option>George Foreman</Option>     
       <Option>Joe Frazier</Option>
+      <Option>Muhammad Ali</Option>
     </Options>
     <CorrectAnswer>Muhammad Ali</CorrectAnswer>
   </Question>
@@ -257,10 +257,10 @@
     <Theme>Desporto</Theme>
     <Level>3</Level>
     <Text>Quem foi o primeiro jogador a ganhar a Bola de Ouro por 5 vezes?</Text>
-    <Options>
-      <Option>Lionel Messi</Option>
+    <Options>     
       <Option>Cristiano Ronaldo</Option>
       <Option>Michel Platini</Option>
+      <Option>Lionel Messi</Option>
       <Option>Johan Cruyff</Option>
     </Options>
     <CorrectAnswer>Lionel Messi</CorrectAnswer>
@@ -307,9 +307,9 @@
     <Text>Em que ano os Jogos Olímpicos de Berlim foram marcados pela performance de Jesse Owens?</Text>
     <Options>
       <Option>1932</Option>
-      <Option>1936</Option>
-      <Option>1940</Option>
       <Option>1944</Option>
+      <Option>1940</Option>
+      <Option>1936</Option>
     </Options>
     <CorrectAnswer>1936</CorrectAnswer>
   </Question>
@@ -367,9 +367,9 @@
     <Level>1</Level>
     <Text>Quem foi o primeiro presidente dos Estados Unidos?</Text>
     <Options>
-      <Option>Abraham Lincoln</Option>
-      <Option>George Washington</Option>
+      <Option>Abraham Lincoln</Option>      
       <Option>Thomas Jefferson</Option>
+      <Option>George Washington</Option>
       <Option>John Adams</Option>
     </Options>
     <CorrectAnswer>George Washington</CorrectAnswer>
@@ -403,9 +403,9 @@
     <Level>1</Level>
     <Text>Qual civilização construiu as pirâmides de Gizé?</Text>
     <Options>
-      <Option>Romanos</Option>
-      <Option>Gregos</Option>
       <Option>Egípcios</Option>
+      <Option>Romanos</Option>
+      <Option>Gregos</Option>      
       <Option>Maias</Option>
     </Options>
     <CorrectAnswer>Egípcios</CorrectAnswer>
@@ -427,9 +427,9 @@
     <Level>1</Level>
     <Text>Em que ano a Revolução Francesa começou?</Text>
     <Options>
-      <Option>1776</Option>
-      <Option>1789</Option>
+      <Option>1776</Option>      
       <Option>1804</Option>
+      <Option>1789</Option>
       <Option>1815</Option>
     </Options>
     <CorrectAnswer>1789</CorrectAnswer>
@@ -439,9 +439,9 @@
     <Level>1</Level>
     <Text>Qual o nome do explorador que "descobriu" a América em 1492?</Text>
     <Options>
-      <Option>Vasco da Gama</Option>
-      <Option>Fernão de Magalhães</Option>
       <Option>Cristóvão Colombo</Option>
+      <Option>Vasco da Gama</Option>
+      <Option>Fernão de Magalhães</Option>     
       <Option>Marco Polo</Option>
     </Options>
     <CorrectAnswer>Cristóvão Colombo</CorrectAnswer>
@@ -463,9 +463,9 @@
     <Level>1</Level>
     <Text>Quem foi o imperador romano que tornou o cristianismo a religião oficial do império?</Text>
     <Options>
-      <Option>Júlio César</Option>
-      <Option>Augusto</Option>
       <Option>Constantino</Option>
+      <Option>Júlio César</Option>
+      <Option>Augusto</Option>      
       <Option>Nero</Option>
     </Options>
     <CorrectAnswer>Constantino</CorrectAnswer>
@@ -549,9 +549,9 @@
     <Text>Quem foi a rainha egípcia famosa pelo seu relacionamento com Júlio César e Marco António?</Text>
     <Options>
       <Option>Nefertiti</Option>
-      <Option>Hatshepsut</Option>
-      <Option>Cleópatra</Option>
+      <Option>Hatshepsut</Option>      
       <Option>Ankhesenamun</Option>
+      <Option>Cleópatra</Option>
     </Options>
     <CorrectAnswer>Cleópatra</CorrectAnswer>
   </Question>
@@ -572,9 +572,9 @@
     <Level>2</Level>
     <Text>Quem foi o filósofo grego, aluno de Platão e professor de Alexandre, o Grande?</Text>
     <Options>
-      <Option>Sócrates</Option>
-      <Option>Aristóteles</Option>
+      <Option>Sócrates</Option>      
       <Option>Pitágoras</Option>
+      <Option>Aristóteles</Option>
       <Option>Heródoto</Option>
     </Options>
     <CorrectAnswer>Aristóteles</CorrectAnswer>
@@ -584,9 +584,9 @@
     <Level>2</Level>
     <Text>Qual o nome da cidade romana destruída pela erupção do Monte Vesúvio em 79 d.C.?</Text>
     <Options>
-      <Option>Roma</Option>
-      <Option>Herculano</Option>
       <Option>Pompeia</Option>
+      <Option>Roma</Option>
+      <Option>Herculano</Option>     
       <Option>Ostia</Option>
     </Options>
     <CorrectAnswer>Pompeia</CorrectAnswer>
@@ -706,9 +706,9 @@
     <Text>Qual o nome do movimento cultural e intelectual que marcou a transição da Idade Média para a Idade Moderna na Europa?</Text>
     <Options>
       <Option>Iluminismo</Option>
-      <Option>Reforma Protestante</Option>
-      <Option>Renascimento</Option>
+      <Option>Reforma Protestante</Option>      
       <Option>Barroco</Option>
+      <Option>Renascimento</Option>
     </Options>
     <CorrectAnswer>Renascimento</CorrectAnswer>
   </Question>
@@ -730,9 +730,9 @@
     <Level>1</Level>
     <Text>Quem interpretou o papel de Harry Potter nos filmes?</Text>
     <Options>
-      <Option>Rupert Grint</Option>
-      <Option>Daniel Radcliffe</Option>
+      <Option>Rupert Grint</Option>      
       <Option>Tom Felton</Option>
+      <Option>Daniel Radcliffe</Option>
       <Option>Emma Watson</Option>
     </Options>
     <CorrectAnswer>Daniel Radcliffe</CorrectAnswer>
@@ -742,8 +742,8 @@
     <Level>1</Level>
     <Text>Qual o nome do diretor do filme "Titanic"?</Text>
     <Options>
-      <Option>Steven Spielberg</Option>
       <Option>James Cameron</Option>
+      <Option>Steven Spielberg</Option>      
       <Option>Christopher Nolan</Option>
       <Option>Quentin Tarantino</Option>
     </Options>
@@ -767,9 +767,9 @@
     <Text>Qual o nome da princesa da Disney que vive no fundo do mar?</Text>
     <Options>
       <Option>Bela</Option>
-      <Option>Cinderela</Option>
-      <Option>Ariel</Option>
+      <Option>Cinderela</Option>     
       <Option>Jasmine</Option>
+      <Option>Ariel</Option>
     </Options>
     <CorrectAnswer>Ariel</CorrectAnswer>
   </Question>
@@ -778,9 +778,9 @@
     <Level>1</Level>
     <Text>Qual o nome do planeta natal de Superman?</Text>
     <Options>
-      <Option>Terra</Option>
-      <Option>Marte</Option>
       <Option>Krypton</Option>
+      <Option>Terra</Option>
+      <Option>Marte</Option>      
       <Option>Saturno</Option>
     </Options>
     <CorrectAnswer>Krypton</CorrectAnswer>
@@ -802,10 +802,10 @@
     <Level>1</Level>
     <Text>Qual o nome do brinquedo cowboy na saga "Toy Story"?</Text>
     <Options>
-      <Option>Buzz Lightyear</Option>
-      <Option>Woody</Option>
+      <Option>Buzz Lightyear</Option>      
       <Option>Sr. Cabeça de Batata</Option>
       <Option>Jessie</Option>
+      <Option>Woody</Option>
     </Options>
     <CorrectAnswer>Woody</CorrectAnswer>
   </Question>
@@ -838,8 +838,8 @@
     <Level>1</Level>
     <Text>Quem canta a música "Let It Go" no filme "Frozen"?</Text>
     <Options>
-      <Option>Anna</Option>
       <Option>Elsa</Option>
+      <Option>Anna</Option>     
       <Option>Olaf</Option>
       <Option>Kristoff</Option>
     </Options>
@@ -863,10 +863,10 @@
     <Level>2</Level>
     <Text>Qual o nome do realizador do filme "Pulp Fiction"?</Text>
     <Options>
-      <Option>Martin Scorsese</Option>
-      <Option>Quentin Tarantino</Option>
+      <Option>Martin Scorsese</Option>      
       <Option>Francis Ford Coppola</Option>
       <Option>Stanley Kubrick</Option>
+      <Option>Quentin Tarantino</Option>
     </Options>
     <CorrectAnswer>Quentin Tarantino</CorrectAnswer>
   </Question>
@@ -887,9 +887,9 @@
     <Level>2</Level>
     <Text>Qual o nome do protagonista de "Matrix"?</Text>
     <Options>
-      <Option>Morpheus</Option>
-      <Option>Trinity</Option>
       <Option>Neo</Option>
+      <Option>Morpheus</Option>
+      <Option>Trinity</Option>      
       <Option>Agente Smith</Option>
     </Options>
     <CorrectAnswer>Neo</CorrectAnswer>
@@ -899,10 +899,10 @@
     <Level>2</Level>
     <Text>Qual o nome do famoso diretor de filmes de terror como "Psicose" e "Os Pássaros"?</Text>
     <Options>
-      <Option>Wes Craven</Option>
-      <Option>Alfred Hitchcock</Option>
+      <Option>Wes Craven</Option>      
       <Option>John Carpenter</Option>
       <Option>George A. Romero</Option>
+      <Option>Alfred Hitchcock</Option>
     </Options>
     <CorrectAnswer>Alfred Hitchcock</CorrectAnswer>
   </Question>
@@ -911,8 +911,8 @@
     <Level>2</Level>
     <Text>Qual o filme de animação da Pixar onde um robô limpa a Terra abandonada?</Text>
     <Options>
-      <Option>Up - Altamente!</Option>
       <Option>Wall-E</Option>
+      <Option>Up - Altamente!</Option>      
       <Option>Toy Story</Option>
       <Option>Divertida-Mente</Option>
     </Options>
@@ -1009,9 +1009,9 @@
     <Text>Qual o nome do filme de 1941, dirigido por Orson Welles, frequentemente citado como o "melhor filme de todos os tempos"?</Text>
     <Options>
       <Option>Casablanca</Option>
-      <Option>O Poderoso Chefão</Option>
-      <Option>Cidadão Kane</Option>
+      <Option>O Poderoso Chefão</Option>      
       <Option>Vertigo</Option>
+      <Option>Cidadão Kane</Option>
     </Options>
     <CorrectAnswer>Cidadão Kane</CorrectAnswer>
   </Question>
@@ -1056,9 +1056,9 @@
     <Level>3</Level>
     <Text>Qual o nome do ator que interpretou Vito Corleone em "O Poderoso Chefão" e ganhou um Óscar por isso?</Text>
     <Options>
-      <Option>Al Pacino</Option>
-      <Option>Robert De Niro</Option>
       <Option>Marlon Brando</Option>
+      <Option>Al Pacino</Option>
+      <Option>Robert De Niro</Option>      
       <Option>James Caan</Option>
     </Options>
     <CorrectAnswer>Marlon Brando</CorrectAnswer>

@@ -15,7 +15,6 @@ namespace ATECQuizApp
             TornarBotaoArredondado(btnDesporto, 30);
             TornarBotaoArredondado(btnHistoria, 30);
             TornarBotaoArredondado(btnMix, 30);
-            TornarBotaoArredondado(btnNovoJogo, 30);
             TornarBotaoArredondado(btnHighscores, 30);
             TornarBotaoArredondado(btnSair, 30);
         }
@@ -71,6 +70,26 @@ namespace ATECQuizApp
             FormJogo formJogo = new FormJogo("Mix");
             formJogo.Show();
             this.Hide();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //Centralizar labels e botões no Form:
+            lblTitulo.Left = (this.ClientSize.Width - lblTitulo.Width) / 2;
+
+            int espaco = 40;
+            int larguraTotal = btnCinema.Width + espaco + btnHistoria.Width;
+            int inicioX = (this.ClientSize.Width - larguraTotal) / 2;
+            btnCinema.Left = inicioX;
+            btnHistoria.Left = inicioX + btnCinema.Width + espaco;
+
+            int larguraTotal1 = btnDesporto.Width + espaco + btnMix.Width;
+            int inicioX1 = (this.ClientSize.Width - larguraTotal) / 2;
+            btnDesporto.Left = inicioX;
+            btnMix.Left = inicioX + btnDesporto.Width + espaco;
+
+            btnHighscores.Left = (this.ClientSize.Width - btnHighscores.Width) / 2;
+            btnSair.Left = (this.ClientSize.Width - btnSair.Width) / 2;
         }
     }
 }
