@@ -42,7 +42,7 @@
             this.lblTitulo.BackColor = System.Drawing.Color.Transparent;
             this.lblTitulo.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTitulo.ForeColor = System.Drawing.Color.White;
-            this.lblTitulo.Location = new System.Drawing.Point(369, 134);
+            this.lblTitulo.Location = new System.Drawing.Point(368, 98);
             this.lblTitulo.Name = "lblTitulo";
             this.lblTitulo.Size = new System.Drawing.Size(298, 37);
             this.lblTitulo.TabIndex = 11;
@@ -50,10 +50,15 @@
             // 
             // lstHighscores
             // 
+            this.lstHighscores.BackColor = System.Drawing.Color.MediumPurple;
+            this.lstHighscores.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.lstHighscores.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lstHighscores.ForeColor = System.Drawing.Color.White;
             this.lstHighscores.FormattingEnabled = true;
-            this.lstHighscores.Location = new System.Drawing.Point(359, 224);
+            this.lstHighscores.ItemHeight = 20;
+            this.lstHighscores.Location = new System.Drawing.Point(313, 163);
             this.lstHighscores.Name = "lstHighscores";
-            this.lstHighscores.Size = new System.Drawing.Size(319, 134);
+            this.lstHighscores.Size = new System.Drawing.Size(432, 220);
             this.lstHighscores.TabIndex = 12;
             // 
             // btnVoltar1
@@ -65,7 +70,7 @@
             this.btnVoltar1.FlatAppearance.BorderSize = 0;
             this.btnVoltar1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnVoltar1.ForeColor = System.Drawing.Color.Transparent;
-            this.btnVoltar1.Location = new System.Drawing.Point(436, 416);
+            this.btnVoltar1.Location = new System.Drawing.Point(439, 408);
             this.btnVoltar1.Name = "btnVoltar1";
             this.btnVoltar1.Size = new System.Drawing.Size(158, 62);
             this.btnVoltar1.TabIndex = 16;

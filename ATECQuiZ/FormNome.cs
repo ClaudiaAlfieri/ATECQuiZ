@@ -24,5 +24,13 @@ namespace ATECQuizApp
             this.Close();
         }
 
+        private void FormNome_Load(object sender, EventArgs e)
+        {
+            //Centralizar labels e botões no Form:
+            lblNome.Left = (this.ClientSize.Width - lblNome.Width) / 2;
+            txtNome.Left = (this.ClientSize.Width - txtNome.Width) / 2;
+            btnOk.Left = (this.ClientSize.Width - btnOk.Width) / 2;
+        }
+
     }
 }
