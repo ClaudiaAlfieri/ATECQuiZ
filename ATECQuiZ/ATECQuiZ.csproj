@@ -58,6 +58,12 @@
     <Compile Include="FormFim.Designer.cs">
       <DependentUpon>FormFim.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormHighScore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHighScore.Designer.cs">
+      <DependentUpon>FormHighScore.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormJogo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -71,6 +77,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormFim.resx">
       <DependentUpon>FormFim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHighScore.resx">
+      <DependentUpon>FormHighScore.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormJogo.resx">
       <DependentUpon>FormJogo.cs</DependentUpon>

@@ -43,7 +43,7 @@
             this.lblFim.BackColor = System.Drawing.Color.Transparent;
             this.lblFim.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblFim.ForeColor = System.Drawing.Color.White;
-            this.lblFim.Location = new System.Drawing.Point(438, 163);
+            this.lblFim.Location = new System.Drawing.Point(468, 176);
             this.lblFim.Name = "lblFim";
             this.lblFim.Size = new System.Drawing.Size(354, 37);
             this.lblFim.TabIndex = 11;
