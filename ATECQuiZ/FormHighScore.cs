@@ -36,7 +36,7 @@ namespace ATECQuizApp
             //Centralizar labels e botões no Form:
             lblTitulo.Left = (this.ClientSize.Width - lblTitulo.Width) / 2;
             lstHighscores.Left = (this.ClientSize.Width - lstHighscores.Width) / 2;
-            btnVoltar.Left = (this.ClientSize.Width - btnVoltar.Width) / 2;
+            btnVoltar1.Left = (this.ClientSize.Width - btnVoltar1.Width) / 2;
         }
                 
 
@@ -52,9 +52,16 @@ namespace ATECQuizApp
 
             string[] linhas = File.ReadAllLines(ficheiro);
 
+            Array.Sort(linhas, (a, b) => {
+                int pontuacaoA = int.Parse(a.Split('|')[2]);
+                int pontuacaoB = int.Parse(b.Split('|')[2]);
+                return pontuacaoB.CompareTo(pontuacaoA);
+            });
+
             foreach (string linha in linhas)
             {
-                lstHighscores.Items.Add(linha);
+                string[] partes = linha.Split('|');
+                lstHighscores.Items.Add(partes[0] + " - " + partes[1] + " - " + partes[2] + " pontos");
             }
         }
 
@@ -63,6 +70,11 @@ namespace ATECQuizApp
             Form1 menu = new Form1();
             menu.Show();
             this.Close();
+        }
+
+        private void btnVoltar1_Click(object sender, EventArgs e)
+        {
+            Application.Restart();
         }
     }
 }

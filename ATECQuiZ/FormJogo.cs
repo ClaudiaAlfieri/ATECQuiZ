@@ -25,9 +25,10 @@ namespace ATECQuizApp
         }
 
         private void FormJogo_Load(object sender, EventArgs e)
-        {        
+        {
             doc.Load("Resources\\QuizQuestions.xml");
             CarregarPerguntas();
+
         }
 
         private void CarregarPerguntas()
@@ -158,7 +159,7 @@ namespace ATECQuizApp
             {
                 if (certasNesteNivel < 4)
                 {
-                    FormFim formFim = new FormFim("Não foi desta vez, tente novamente!", pontuacao);
+                    FormFim formFim = new FormFim("Não foi desta vez, tente novamente!", temaEscolhido, pontuacao);
                     formFim.Show();
                     this.Hide();
                 }
@@ -166,10 +167,9 @@ namespace ATECQuizApp
                 {
                     if (nivelAtual == 3)
                     {
-                        FormFim formFim = new FormFim("Parabéns, venceste! 🏆", pontuacao);
+                        FormFim formFim = new FormFim("Parabéns, venceste! 🏆", temaEscolhido, pontuacao);
                         formFim.Show();
                         this.Hide();
-
                     }
                     else
                     {

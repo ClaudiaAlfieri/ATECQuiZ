@@ -119,6 +119,7 @@
             this.btnHighscores.Size = new System.Drawing.Size(158, 62);
             this.btnHighscores.TabIndex = 8;
             this.btnHighscores.UseVisualStyleBackColor = false;
+            this.btnHighscores.Click += new System.EventHandler(this.btnHighscores_Click);
             // 
             // btnSair
             // 

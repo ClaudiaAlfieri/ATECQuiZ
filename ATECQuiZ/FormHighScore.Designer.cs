@@ -32,7 +32,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormHighScore));
             this.lblTitulo = new System.Windows.Forms.Label();
             this.lstHighscores = new System.Windows.Forms.ListBox();
-            this.btnVoltar = new System.Windows.Forms.Button();
+            this.btnVoltar1 = new System.Windows.Forms.Button();
             this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
@@ -56,23 +56,26 @@
             this.lstHighscores.Size = new System.Drawing.Size(319, 134);
             this.lstHighscores.TabIndex = 12;
             // 
-            // btnVoltar
+            // btnVoltar1
             // 
-            this.btnVoltar.BackColor = System.Drawing.Color.Transparent;
-            this.btnVoltar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnVoltar.BackgroundImage")));
-            this.btnVoltar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnVoltar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnVoltar.FlatAppearance.BorderSize = 0;
-            this.btnVoltar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnVoltar.ForeColor = System.Drawing.Color.Transparent;
-            this.btnVoltar.Location = new System.Drawing.Point(436, 416);
-            this.btnVoltar.Name = "btnVoltar";
-            this.btnVoltar.Size = new System.Drawing.Size(158, 62);
-            this.btnVoltar.TabIndex = 16;
-            this.btnVoltar.UseVisualStyleBackColor = false;
+            this.btnVoltar1.BackColor = System.Drawing.Color.Transparent;
+            this.btnVoltar1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnVoltar1.BackgroundImage")));
+            this.btnVoltar1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnVoltar1.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnVoltar1.FlatAppearance.BorderSize = 0;
+            this.btnVoltar1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnVoltar1.ForeColor = System.Drawing.Color.Transparent;
+            this.btnVoltar1.Location = new System.Drawing.Point(436, 416);
+            this.btnVoltar1.Name = "btnVoltar1";
+            this.btnVoltar1.Size = new System.Drawing.Size(158, 62);
+            this.btnVoltar1.TabIndex = 16;
+            this.btnVoltar1.UseVisualStyleBackColor = false;
+            this.btnVoltar1.Click += new System.EventHandler(this.btnVoltar1_Click);
             // 
             // timer1
             // 
+            this.timer1.Enabled = true;
+            this.timer1.Interval = 500;
             this.timer1.Tick += new System.EventHandler(this.timer1_Tick);
             // 
             // FormHighScore
@@ -81,7 +84,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.ClientSize = new System.Drawing.Size(1117, 605);
-            this.Controls.Add(this.btnVoltar);
+            this.Controls.Add(this.btnVoltar1);
             this.Controls.Add(this.lstHighscores);
             this.Controls.Add(this.lblTitulo);
             this.Name = "FormHighScore";
@@ -95,7 +98,7 @@
         #endregion
         private System.Windows.Forms.Label lblTitulo;
         private System.Windows.Forms.ListBox lstHighscores;
-        private System.Windows.Forms.Button btnVoltar;
+        private System.Windows.Forms.Button btnVoltar1;
         private System.Windows.Forms.Timer timer1;
     }
 }

@@ -91,5 +91,12 @@ namespace ATECQuizApp
             btnHighscores.Left = (this.ClientSize.Width - btnHighscores.Width) / 2;
             btnSair.Left = (this.ClientSize.Width - btnSair.Width) / 2;
         }
+
+        private void btnHighscores_Click(object sender, EventArgs e)
+        {
+            FormHighScore formHighscores = new FormHighScore();
+            formHighscores.Show();
+            this.Hide();
+        }
     }
 }

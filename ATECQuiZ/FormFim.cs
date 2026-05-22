@@ -7,19 +7,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using Microsoft.VisualBasic;
+using System.Windows.Forms.VisualStyles;
 
 namespace ATECQuizApp
 {
     public partial class FormFim : Form
     {
         string mensagemFinal;
+        string temaEscolhido;
         int pontuacaoFinal;
 
-        public FormFim(string mensagem, int pontuacao)
+        public FormFim(string mensagem, string tema,  int pontuacao)
         {
             InitializeComponent();
             mensagemFinal = mensagem;
+            temaEscolhido = tema;
             pontuacaoFinal = pontuacao;
+            
         }
 
         Color[] cores = { Color.White, Color.Yellow, Color.Cyan };
@@ -44,7 +50,20 @@ namespace ATECQuizApp
                 
         private void btnVoltar_Click(object sender, EventArgs e)
         {
-            Application.Restart();
+            FormNome formNome = new FormNome();
+            formNome.ShowDialog();
+
+            string nome = formNome.NomeJogador;
+
+            if (nome != "")
+            {
+                string linha = nome + " | " + temaEscolhido + " | " + pontuacaoFinal;
+                File.AppendAllText("highscores.txt", linha + "\n");
+            }
+
+            FormHighScore formHighscores = new FormHighScore();
+            formHighscores.Show();
+            this.Close();
         }
     }
 }

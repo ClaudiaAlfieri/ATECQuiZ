@@ -80,15 +80,15 @@
             // 
             // lblPergunta
             // 
-            this.lblPergunta.AutoSize = true;
             this.lblPergunta.BackColor = System.Drawing.Color.Transparent;
             this.lblPergunta.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPergunta.ForeColor = System.Drawing.Color.White;
-            this.lblPergunta.Location = new System.Drawing.Point(613, 241);
+            this.lblPergunta.Location = new System.Drawing.Point(235, 212);
             this.lblPergunta.Name = "lblPergunta";
-            this.lblPergunta.Size = new System.Drawing.Size(108, 26);
+            this.lblPergunta.Size = new System.Drawing.Size(800, 80);
             this.lblPergunta.TabIndex = 3;
             this.lblPergunta.Text = "Pergunta";
+            this.lblPergunta.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnResposta2
             // 
