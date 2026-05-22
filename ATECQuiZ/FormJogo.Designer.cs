@@ -98,9 +98,9 @@
             this.btnResposta2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResposta2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResposta2.ForeColor = System.Drawing.Color.Indigo;
-            this.btnResposta2.Location = new System.Drawing.Point(388, 336);
+            this.btnResposta2.Location = new System.Drawing.Point(377, 336);
             this.btnResposta2.Name = "btnResposta2";
-            this.btnResposta2.Size = new System.Drawing.Size(250, 35);
+            this.btnResposta2.Size = new System.Drawing.Size(260, 35);
             this.btnResposta2.TabIndex = 5;
             this.btnResposta2.Text = "Resposta 2";
             this.btnResposta2.UseVisualStyleBackColor = true;
@@ -114,9 +114,9 @@
             this.btnResposta3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnResposta3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnResposta3.ForeColor = System.Drawing.Color.Indigo;
-            this.btnResposta3.Location = new System.Drawing.Point(675, 336);
+            this.btnResposta3.Location = new System.Drawing.Point(665, 336);
             this.btnResposta3.Name = "btnResposta3";
-            this.btnResposta3.Size = new System.Drawing.Size(250, 35);
+            this.btnResposta3.Size = new System.Drawing.Size(260, 35);
             this.btnResposta3.TabIndex = 6;
             this.btnResposta3.Text = "Resposta 3";
             this.btnResposta3.UseVisualStyleBackColor = true;
@@ -132,7 +132,7 @@
             this.btnResposta4.ForeColor = System.Drawing.Color.Indigo;
             this.btnResposta4.Location = new System.Drawing.Point(951, 336);
             this.btnResposta4.Name = "btnResposta4";
-            this.btnResposta4.Size = new System.Drawing.Size(250, 35);
+            this.btnResposta4.Size = new System.Drawing.Size(260, 35);
             this.btnResposta4.TabIndex = 7;
             this.btnResposta4.Text = "Resposta 4";
             this.btnResposta4.UseVisualStyleBackColor = true;
@@ -165,7 +165,7 @@
             this.btnResposta1.ForeColor = System.Drawing.Color.Indigo;
             this.btnResposta1.Location = new System.Drawing.Point(89, 336);
             this.btnResposta1.Name = "btnResposta1";
-            this.btnResposta1.Size = new System.Drawing.Size(250, 35);
+            this.btnResposta1.Size = new System.Drawing.Size(260, 35);
             this.btnResposta1.TabIndex = 9;
             this.btnResposta1.Text = "Resposta 1";
             this.btnResposta1.UseVisualStyleBackColor = true;

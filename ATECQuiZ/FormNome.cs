@@ -18,12 +18,6 @@ namespace ATECQuizApp
             InitializeComponent();
         }
 
-        private void btnOk_Click(object sender, EventArgs e)
-        {
-            NomeJogador = txtNome.Text;
-            this.Close();
-        }
-
         private void FormNome_Load(object sender, EventArgs e)
         {
             //Centralizar labels e botões no Form:
@@ -32,5 +26,10 @@ namespace ATECQuizApp
             btnOk.Left = (this.ClientSize.Width - btnOk.Width) / 2;
         }
 
+        private void btnOk_Click(object sender, EventArgs e)
+        {
+            NomeJogador = txtNome.Text;
+            this.Close();
+        }
     }
 }

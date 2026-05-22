@@ -2,8 +2,10 @@
 using System;
 using System.Collections.Generic;
 using System.Drawing;
+using System.Runtime.InteropServices;
 using System.Windows.Forms;
 using System.Xml;
+using System.Runtime.InteropServices;
 
 namespace ATECQuizApp
 {
@@ -17,6 +19,8 @@ namespace ATECQuizApp
         int pontuacao = 0;
         int certasNesteNivel = 0;
         Button botaoClicado;
+        [DllImport("winmm.dll")]
+        static extern int mciSendString(string command, string returnValue, int returnLength, IntPtr winHandle);
 
         public FormJogo(string tema)
         {
@@ -28,6 +32,9 @@ namespace ATECQuizApp
         {
             doc.Load("Resources\\QuizQuestions.xml");
             CarregarPerguntas();
+            string caminho = System.IO.Path.GetFullPath("Resources\\musica_quiz.mp3");
+            mciSendString($"open \"{caminho}\" type mpegvideo alias musica", null, 0, IntPtr.Zero);
+            mciSendString("play musica repeat", null, 0, IntPtr.Zero); ;
 
         }
 
@@ -159,6 +166,8 @@ namespace ATECQuizApp
             {
                 if (certasNesteNivel < 4)
                 {
+                    mciSendString("stop musica", null, 0, IntPtr.Zero);
+                    mciSendString("close musica", null, 0, IntPtr.Zero);
                     FormFim formFim = new FormFim("Não foi desta vez, tente novamente!", temaEscolhido, pontuacao);
                     formFim.Show();
                     this.Hide();
@@ -167,6 +176,8 @@ namespace ATECQuizApp
                 {
                     if (nivelAtual == 3)
                     {
+                        mciSendString("stop musica", null, 0, IntPtr.Zero);
+                        mciSendString("close musica", null, 0, IntPtr.Zero);
                         FormFim formFim = new FormFim("Parabéns, venceste! 🏆", temaEscolhido, pontuacao);
                         formFim.Show();
                         this.Hide();

@@ -60,7 +60,7 @@ namespace ATECQuizApp
 
         private void btnHistoria_Click(object sender, EventArgs e)
         {
-            FormJogo formJogo = new FormJogo("Historia");
+            FormJogo formJogo = new FormJogo("História");
             formJogo.Show();
             this.Hide();
         }

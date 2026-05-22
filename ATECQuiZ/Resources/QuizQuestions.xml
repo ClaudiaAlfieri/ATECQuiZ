@@ -4,9 +4,9 @@
     <Level>1</Level>
     <Text>Quantos jogadores tem uma equipa de futebol em campo?</Text>
     <Options>
+      <Option>11</Option>
       <Option>9</Option>
       <Option>10</Option>
-      <Option>11</Option>
       <Option>12</Option>
     </Options>
     <CorrectAnswer>11</CorrectAnswer>
@@ -14,84 +14,24 @@
   <Question>
     <Theme>Desporto</Theme>
     <Level>1</Level>
-    <Text>Qual é o desporto conhecido como "o rei dos desportos"?</Text>
+    <Text>Qual o país de origem do Judo?</Text>
     <Options>
-      <Option>Basquetebol</Option>
-      <Option>Futebol</Option>
-      <Option>Ténis</Option>
-      <Option>Natação</Option>
-    </Options>
-    <CorrectAnswer>Futebol</CorrectAnswer>
-  </Question>
-  <Question>
-    <Theme>Desporto</Theme>
-    <Level>1</Level>
-    <Text>Em que país nasceu o Taekwondo?</Text>
-    <Options>
-      <Option>Japão</Option>
       <Option>China</Option>
-      <Option>Tailândia</Option>
-      <Option>Coreia do Sul</Option>      
-    </Options>
-    <CorrectAnswer>Coreia do Sul</CorrectAnswer>
-  </Question>
-  <Question>
-    <Theme>Desporto</Theme>
-    <Level>1</Level>
-    <Text>Qual o nome do atleta mais rápido do mundo?</Text>
-    <Options>
-      <Option>Usain Bolt</Option>
-      <Option>Michael Jordan</Option>      
-      <Option>Cristiano Ronaldo</Option>
-      <Option>Lewis Hamilton</Option>
-    </Options>
-    <CorrectAnswer>Usain Bolt</CorrectAnswer>
-  </Question>
-  <Question>
-    <Theme>Desporto</Theme>
-    <Level>1</Level>
-    <Text>Quantas medalhas de ouro olímpicas tem Michael Phelps?</Text>
-    <Options>
-      <Option>18</Option>
-      <Option>23</Option>
-      <Option>28</Option>
-      <Option>30</Option>
-    </Options>
-    <CorrectAnswer>23</CorrectAnswer>
-  </Question>
-  <Question>
-    <Theme>Desporto</Theme>
-    <Level>1</Level>
-    <Text>Qual o país de origem do judo?</Text>
-    <Options>
-      <Option>China</Option>      
-      <Option>Coreia</Option>
       <Option>Japão</Option>
-      <Option>Índia</Option>
+      <Option>Coreia do Sul</Option>
+      <Option>Tailândia</Option>
     </Options>
     <CorrectAnswer>Japão</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
     <Level>1</Level>
-    <Text>Qual o nome do estádio do Sport Lisboa e Benfica?</Text>
+    <Text>Em que desporto se usa uma "shuttlecock" (volante)?</Text>
     <Options>
-      <Option>Estádio do Dragão</Option>
-      <Option>Estádio da Luz</Option>
-      <Option>Estádio José Alvalade</Option>     
-      <Option>Estádio Nacional</Option>
-    </Options>
-    <CorrectAnswer>Estádio da Luz</CorrectAnswer>
-  </Question>
-  <Question>
-    <Theme>Desporto</Theme>
-    <Level>1</Level>
-    <Text>Em que desporto se usa um "shuttlecock"?</Text>
-    <Options>
-      <Option>Ténis</Option>      
-      <Option>Voleibol</Option>
+      <Option>Ténis</Option>
       <Option>Squash</Option>
       <Option>Badminton</Option>
+      <Option>Voleibol</Option>
     </Options>
     <CorrectAnswer>Badminton</CorrectAnswer>
   </Question>
@@ -101,23 +41,83 @@
     <Text>Qual a cor da camisola do líder no Tour de France?</Text>
     <Options>
       <Option>Vermelha</Option>
+      <Option>Verde</Option>
       <Option>Azul</Option>
       <Option>Amarela</Option>
-      <Option>Verde</Option>
     </Options>
     <CorrectAnswer>Amarela</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
     <Level>1</Level>
-    <Text>Quantos pontos vale um golo num jogo de basquetebol?</Text>
+    <Text>Qual o estádio onde o FC Porto joga os seus jogos em casa?</Text>
     <Options>
-      <Option>1, 2 ou 3</Option>
-      <Option>1 ou 2</Option>
-      <Option>2 ou 3</Option>
-      <Option>3 ou 4</Option>     
+      <Option>Estádio da Luz</Option>
+      <Option>Estádio do Dragão</Option>
+      <Option>Estádio José Alvalade</Option>
+      <Option>Estádio Nacional</Option>
     </Options>
-    <CorrectAnswer>1, 2 ou 3</CorrectAnswer>
+    <CorrectAnswer>Estádio do Dragão</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Em que desporto existe o termo "strike"?</Text>
+    <Options>
+      <Option>Basebol</Option>
+      <Option>Bowling</Option>
+      <Option>Críquete</Option>
+      <Option>Basebol e Bowling</Option>
+    </Options>
+    <CorrectAnswer>Bowling</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Quantos sets são necessários para vencer um jogo de ténis em Grand Slam masculino?</Text>
+    <Options>
+      <Option>2</Option>
+      <Option>4</Option>
+      <Option>3</Option>
+      <Option>5</Option>
+    </Options>
+    <CorrectAnswer>3</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Qual é o país de origem do Críquete?</Text>
+    <Options>
+      <Option>Austrália</Option>
+      <Option>Índia</Option>
+      <Option>África do Sul</Option>
+      <Option>Inglaterra</Option>
+    </Options>
+    <CorrectAnswer>Inglaterra</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Qual o nome do estádio do Benfica?</Text>
+    <Options>
+      <Option>Estádio do Dragão</Option>
+      <Option>Estádio da Luz</Option>
+      <Option>Estádio José Alvalade</Option>
+      <Option>Estádio Nacional</Option>
+    </Options>
+    <CorrectAnswer>Estádio da Luz</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>1</Level>
+    <Text>Em que desporto compete Cristiano Ronaldo?</Text>
+    <Options>
+      <Option>Basquetebol</Option>
+      <Option>Ténis</Option>
+      <Option>Natação</Option>
+      <Option>Futebol</Option>
+    </Options>
+    <CorrectAnswer>Futebol</CorrectAnswer>
   </Question>
 
   <Question>
@@ -127,7 +127,7 @@
     <Options>
       <Option>Michael Phelps</Option>
       <Option>Larisa Latynina</Option>
-      <Option>Paavo Nurmi</Option>    
+      <Option>Paavo Nurmi</Option>
       <Option>Carl Lewis</Option>
     </Options>
     <CorrectAnswer>Michael Phelps</CorrectAnswer>
@@ -135,14 +135,14 @@
   <Question>
     <Theme>Desporto</Theme>
     <Level>2</Level>
-    <Text>Qual o único país africano que participou em todos os Mundiais de futebol?</Text>
+    <Text>Em que cidade se realizaram os Jogos Olímpicos de Verão de 2024?</Text>
     <Options>
-      <Option>Nigéria</Option>
-      <Option>Camarões</Option>
-      <Option>Marrocos</Option>
-      <Option>Egito</Option>
+      <Option>Londres</Option>
+      <Option>Paris</Option>
+      <Option>Tóquio</Option>
+      <Option>Los Angeles</Option>
     </Options>
-    <CorrectAnswer>Camarões</CorrectAnswer>
+    <CorrectAnswer>Paris</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
@@ -159,11 +159,11 @@
   <Question>
     <Theme>Desporto</Theme>
     <Level>2</Level>
-    <Text>Em que ano foi disputada a primeira Taça dos Clubes Campeões Europeus (atual Liga dos Campeões)?</Text>
+    <Text>Em que ano foi disputada a primeira edição da Liga dos Campeões da UEFA?</Text>
     <Options>
-      <Option>1950</Option>    
+      <Option>1950</Option>
       <Option>1960</Option>
-      <Option>1965</Option>
+      <Option>1948</Option>
       <Option>1955</Option>
     </Options>
     <CorrectAnswer>1955</CorrectAnswer>
@@ -171,14 +171,14 @@
   <Question>
     <Theme>Desporto</Theme>
     <Level>2</Level>
-    <Text>Qual o desporto que se joga no All England Club?</Text>
+    <Text>Qual o torneio de ténis que se realiza em Wimbledon?</Text>
     <Options>
-      <Option>Futebol</Option>
-      <Option>Críquete</Option>
-      <Option>Ténis</Option>
-      <Option>Râguebi</Option>
+      <Option>Roland Garros</Option>
+      <Option>US Open</Option>
+      <Option>The Championships</Option>
+      <Option>Australian Open</Option>
     </Options>
-    <CorrectAnswer>Ténis</CorrectAnswer>
+    <CorrectAnswer>The Championships</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
@@ -195,50 +195,50 @@
   <Question>
     <Theme>Desporto</Theme>
     <Level>2</Level>
-    <Text>Qual o nome do famoso ginasta romeno que obteve a primeira nota 10 perfeita nos Jogos Olímpicos?</Text>
+    <Text>Qual a ginasta que obteve a primeira nota 10 perfeita nos Jogos Olímpicos, em 1976?</Text>
     <Options>
       <Option>Olga Korbut</Option>
-      <Option>Nadia Comăneci</Option>
       <Option>Simone Biles</Option>
       <Option>Larisa Latynina</Option>
+      <Option>Nadia Comăneci</Option>
     </Options>
     <CorrectAnswer>Nadia Comăneci</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
     <Level>2</Level>
-    <Text>Qual o nome do troféu da Copa do Mundo de Futebol?</Text>
+    <Text>Quantos Grand Slams de ténis existem no calendário anual?</Text>
     <Options>
-      <Option>Taça Jules Rimet</Option>      
-      <Option>Taça do Mundo</Option>
-      <Option>Taça FIFA World Cup</Option>
-      <Option>Taça de Ouro</Option>
+      <Option>2</Option>
+      <Option>3</Option>
+      <Option>4</Option>
+      <Option>5</Option>
     </Options>
-    <CorrectAnswer>Taça FIFA World Cup</CorrectAnswer>
+    <CorrectAnswer>4</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
     <Level>2</Level>
-    <Text>Em que cidade se realizam os Jogos Olímpicos de Verão de 2024?</Text>
-    <Options>
-      <Option>Paris</Option>
-      <Option>Tóquio</Option>
-      <Option>Los Angeles</Option>     
-      <Option>Roma</Option>
-    </Options>
-    <CorrectAnswer>Paris</CorrectAnswer>
-  </Question>
-  <Question>
-    <Theme>Desporto</Theme>
-    <Level>2</Level>
-    <Text>Qual o nome do famoso pugilista conhecido como "The Greatest"?</Text>
+    <Text>Qual o nome do pugilista conhecido como "The Greatest"?</Text>
     <Options>
       <Option>Mike Tyson</Option>
-      <Option>George Foreman</Option>     
+      <Option>George Foreman</Option>
       <Option>Joe Frazier</Option>
       <Option>Muhammad Ali</Option>
     </Options>
     <CorrectAnswer>Muhammad Ali</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>2</Level>
+    <Text>Qual o clube português que mais vezes ganhou a Liga dos Campeões?</Text>
+    <Options>
+      <Option>Sporting CP</Option>
+      <Option>Benfica</Option>
+      <Option>FC Porto</Option>
+      <Option>Belenenses</Option>
+    </Options>
+    <CorrectAnswer>Benfica</CorrectAnswer>
   </Question>
 
   <Question>
@@ -256,23 +256,23 @@
   <Question>
     <Theme>Desporto</Theme>
     <Level>3</Level>
-    <Text>Quem foi o primeiro jogador a ganhar a Bola de Ouro por 5 vezes?</Text>
-    <Options>     
-      <Option>Cristiano Ronaldo</Option>
-      <Option>Michel Platini</Option>
-      <Option>Lionel Messi</Option>
-      <Option>Johan Cruyff</Option>
+    <Text>Qual o recorde mundial dos 100 metros rasos masculinos, estabelecido por Usain Bolt?</Text>
+    <Options>
+      <Option>9,72 segundos</Option>
+      <Option>9,58 segundos</Option>
+      <Option>9,63 segundos</Option>
+      <Option>9,69 segundos</Option>
     </Options>
-    <CorrectAnswer>Lionel Messi</CorrectAnswer>
+    <CorrectAnswer>9,58 segundos</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
     <Level>3</Level>
     <Text>Qual o nome do circuito de Fórmula 1 mais longo do calendário atual?</Text>
     <Options>
-      <Option>Spa-Francorchamps</Option>
       <Option>Monza</Option>
       <Option>Silverstone</Option>
+      <Option>Spa-Francorchamps</Option>
       <Option>Suzuka</Option>
     </Options>
     <CorrectAnswer>Spa-Francorchamps</CorrectAnswer>
@@ -280,14 +280,14 @@
   <Question>
     <Theme>Desporto</Theme>
     <Level>3</Level>
-    <Text>Qual o único tenista a ter completado o Grand Slam de carreira em três superfícies diferentes (relva, terra batida, piso duro)?</Text>
+    <Text>Qual o único tenista a completar o Golden Slam (4 Grand Slams + ouro olímpico no mesmo ano)?</Text>
     <Options>
       <Option>Roger Federer</Option>
       <Option>Rafael Nadal</Option>
       <Option>Novak Djokovic</Option>
-      <Option>Rod Laver</Option>
+      <Option>Steffi Graf</Option>
     </Options>
-    <CorrectAnswer>Novak Djokovic</CorrectAnswer>
+    <CorrectAnswer>Steffi Graf</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
@@ -295,9 +295,9 @@
     <Text>Qual o nome do jogador de futebol que marcou o "Golo do Século" contra a Inglaterra no Mundial de 1986?</Text>
     <Options>
       <Option>Pelé</Option>
-      <Option>Diego Maradona</Option>
       <Option>Ronaldo Nazário</Option>
       <Option>Zinedine Zidane</Option>
+      <Option>Diego Maradona</Option>
     </Options>
     <CorrectAnswer>Diego Maradona</CorrectAnswer>
   </Question>
@@ -306,17 +306,17 @@
     <Level>3</Level>
     <Text>Em que ano os Jogos Olímpicos de Berlim foram marcados pela performance de Jesse Owens?</Text>
     <Options>
-      <Option>1932</Option>
-      <Option>1944</Option>
-      <Option>1940</Option>
       <Option>1936</Option>
+      <Option>1932</Option>
+      <Option>1940</Option>
+      <Option>1944</Option>
     </Options>
     <CorrectAnswer>1936</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Desporto</Theme>
     <Level>3</Level>
-    <Text>Qual o nome da equipa de basquetebol que detém o recorde de mais títulos da NBA?</Text>
+    <Text>Qual a equipa de basquetebol que detém o recorde de mais títulos da NBA?</Text>
     <Options>
       <Option>Chicago Bulls</Option>
       <Option>Los Angeles Lakers</Option>
@@ -328,24 +328,12 @@
   <Question>
     <Theme>Desporto</Theme>
     <Level>3</Level>
-    <Text>Qual o único desporto em que o Brasil ganhou todas as medalhas de ouro em todas as edições dos Jogos Olímpicos?</Text>
-    <Options>
-      <Option>Futebol</Option>
-      <Option>Voleibol de Praia</Option>
-      <Option>Natação</Option>
-      <Option>Judo</Option>
-    </Options>
-    <CorrectAnswer>Voleibol de Praia</CorrectAnswer>
-  </Question>
-  <Question>
-    <Theme>Desporto</Theme>
-    <Level>3</Level>
     <Text>Qual o nome do fundador dos Jogos Olímpicos modernos?</Text>
     <Options>
-      <Option>Pierre de Coubertin</Option>
-      <Option>Baron de Coubertin</Option>
       <Option>Demetrius Vikelas</Option>
       <Option>Spyros Louis</Option>
+      <Option>Henri Didon</Option>
+      <Option>Pierre de Coubertin</Option>
     </Options>
     <CorrectAnswer>Pierre de Coubertin</CorrectAnswer>
   </Question>
@@ -355,11 +343,23 @@
     <Text>Qual o nome do maior evento de golfe por equipas entre a Europa e os Estados Unidos?</Text>
     <Options>
       <Option>The Open Championship</Option>
-      <Option>Ryder Cup</Option>
       <Option>Masters Tournament</Option>
+      <Option>Ryder Cup</Option>
       <Option>PGA Championship</Option>
     </Options>
     <CorrectAnswer>Ryder Cup</CorrectAnswer>
+  </Question>
+  <Question>
+    <Theme>Desporto</Theme>
+    <Level>3</Level>
+    <Text>Quantas vezes Portugal ganhou o Campeonato Europeu de Futebol?</Text>
+    <Options>
+      <Option>3</Option>
+      <Option>1</Option>
+      <Option>4</Option>
+      <Option>2</Option>
+    </Options>
+    <CorrectAnswer>2</CorrectAnswer>
   </Question>
 
   <Question>
@@ -984,12 +984,12 @@
     <Level>3</Level>
     <Text>Qual o filme que é considerado o primeiro longa-metragem de animação da história do cinema?</Text>
     <Options>
-      <Option>Branca de Neve e os Sete Anões</Option>
+      <Option>Branca de Neve</Option>
       <Option>Pinóquio</Option>
       <Option>Fantasia</Option>
       <Option>Dumbo</Option>
     </Options>
-    <CorrectAnswer>Branca de Neve e os Sete Anões</CorrectAnswer>
+    <CorrectAnswer>Branca de Neve</CorrectAnswer>
   </Question>
   <Question>
     <Theme>Cinema</Theme>

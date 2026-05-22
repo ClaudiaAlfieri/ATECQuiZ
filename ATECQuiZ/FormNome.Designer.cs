@@ -69,6 +69,7 @@
             this.btnOk.Size = new System.Drawing.Size(158, 62);
             this.btnOk.TabIndex = 10;
             this.btnOk.UseVisualStyleBackColor = false;
+            this.btnOk.Click += new System.EventHandler(this.btnOk_Click);
             // 
             // FormNome
             // 

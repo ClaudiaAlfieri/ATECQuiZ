@@ -58,10 +58,10 @@ namespace ATECQuizApp
                 return pontuacaoB.CompareTo(pontuacaoA);
             });
 
-            foreach (string linha in linhas)
+            for (int i = 0; i < 10 && i < linhas.Length; i++)
             {
-                string[] partes = linha.Split('|');
-                lstHighscores.Items.Add(partes[0] + " - " + partes[1] + " - " + partes[2] + " pontos");
+                string[] partes = linhas[i].Split('|');
+                lstHighscores.Items.Add("  " + partes[0] + " - " + partes[1] + " - " + partes[2] + " pontos");
             }
         }
 

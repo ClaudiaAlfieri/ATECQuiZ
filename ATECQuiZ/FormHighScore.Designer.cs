@@ -56,9 +56,9 @@
             this.lstHighscores.ForeColor = System.Drawing.Color.White;
             this.lstHighscores.FormattingEnabled = true;
             this.lstHighscores.ItemHeight = 20;
-            this.lstHighscores.Location = new System.Drawing.Point(313, 163);
+            this.lstHighscores.Location = new System.Drawing.Point(337, 158);
             this.lstHighscores.Name = "lstHighscores";
-            this.lstHighscores.Size = new System.Drawing.Size(432, 220);
+            this.lstHighscores.Size = new System.Drawing.Size(393, 220);
             this.lstHighscores.TabIndex = 12;
             // 
             // btnVoltar1
