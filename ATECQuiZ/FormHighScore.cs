@@ -70,5 +70,12 @@ namespace ATECQuizApp
         {
             Application.Restart();
         }
+
+        private void btnVoltar_Click(object sender, EventArgs e)
+        {
+            Form1 menu = new Form1();
+            menu.Show();
+            this.Close();
+        }
     }
 }

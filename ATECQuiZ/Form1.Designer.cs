@@ -114,7 +114,7 @@
             this.btnHighscores.FlatAppearance.BorderSize = 0;
             this.btnHighscores.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnHighscores.ForeColor = System.Drawing.Color.Transparent;
-            this.btnHighscores.Location = new System.Drawing.Point(570, 416);
+            this.btnHighscores.Location = new System.Drawing.Point(570, 420);
             this.btnHighscores.Name = "btnHighscores";
             this.btnHighscores.Size = new System.Drawing.Size(158, 62);
             this.btnHighscores.TabIndex = 8;
